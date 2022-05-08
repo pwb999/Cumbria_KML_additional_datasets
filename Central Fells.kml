@@ -1,0 +1,2786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-blue">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-purple">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-pink">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-brown">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-brown.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-deeppurple">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-deeppurple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-lightblue">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-cyan">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-cyan.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-teal">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-teal.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-lime">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-lime.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-deeporange">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-deeporange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-gray">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-gray.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-bluegray">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-bluegray.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  
+      <!-- End of the Styles tags defintions -->
+      <!-- End of the Styles tags defintions -->
+
+  <name>Central Fells</name>
+  <visibility>1</visibility>
+ 
+  
+  <!-- "Block 1" -->
+
+  <ExtendedData xmlns:mwm="https://omaps.app">
+    <mwm:name>
+      <mwm:lang code="default">Central Fells</mwm:lang>
+    </mwm:name>
+    <mwm:annotation>
+    </mwm:annotation>
+    <mwm:description>
+    </mwm:description>
+    <mwm:lastModified>2022-02-16T17:36:45Z</mwm:lastModified>
+    <mwm:accessRules>Local</mwm:accessRules>
+  </ExtendedData>
+  
+  
+  
+  <!--Block2--> 
+<Placemark>
+<name>High Raise [High White Stones]</name>
+<description></description>
+<styleUrl>#placemark-blue</styleUrl>
+<Point>
+<coordinates>-3.111268,54.475962</coordinates>
+</Point>
+<!--Block3--> 
+<ExtendedData xmlns:mwm="https://omaps.app">
+<mwm:name>
+<mwm:lang code="default">High Raise [High White Stones]</mwm:lang>
+</mwm:name>
+<mwm:description>
+<mwm:lang code="default">
+<!--Block4-->
+<![CDATA[
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<br>
+<table style="width:100%">
+<tr><td style=text-align: left; vertical-align: middle;><b>Information</b><td style=text-align: left; vertical-align: middle;><b>Hills Database v17.3</b></td></tr><td style=text-align: left; vertical-align: middle;>Number:-<td style=text-align: left; vertical-align: middle;>2396</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Name:-</td><td style=text-align: left; vertical-align: middle;>High Raise [High White Stones]</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent name (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Section:-</td><td style=text-align: left; vertical-align: middle;>34B</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Region:-</td><td style=text-align: left; vertical-align: middle;>34B: Lake District C&W</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Area:-</td><td style=text-align: left; vertical-align: middle;>Lake District - Central Fells</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Island:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Topo Section:-</td><td style=text-align: left; vertical-align: middle;>Q03:Keswick to Duddon Sands</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County:-</td><td style=text-align: left; vertical-align: middle;>Cumbria</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Classification:-</td><td style=text-align: left; vertical-align: middle;>Ma,Sim,Hew,N,W,B,Sy,Fel</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:50k:-</td><td style=text-align: left; vertical-align: middle;>89 90</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:25k:-</td><td style=text-align: left; vertical-align: middle;>OL4S OL6N</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Metres:-</td><td style=text-align: left; vertical-align: middle;>762</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feet:-</td><td style=text-align: left; vertical-align: middle;>2500</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY280095</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref 10:-</td><td style=text-align: left; vertical-align: middle;>NY 28089 09523</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Drop:-</td><td style=text-align: left; vertical-align: middle;>283</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY265088</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col height:-</td><td style=text-align: left; vertical-align: middle;>479</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feature:-</td><td style=text-align: left; vertical-align: middle;>rock 15m SSE of trig point</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Observations:-</td><td style=text-align: left; vertical-align: middle;>rock 30cm higher than flush bracket; windshelter conceal higher rock</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Survey:-</td><td style=text-align: left; vertical-align: middle;>Abney level</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Climbed:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Country:-</td><td style=text-align: left; vertical-align: middle;>E</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County Top:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Revision:-</td><td style=text-align: left; vertical-align: middle;>05/01/2020</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Street Map</td><td style=text-align: left; vertical-align: middle;><a href="http://www.streetmap.co.uk/map?X=328088&Y=509524&SV=328088,509524&A=Y&Z=115">Street Map</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Geograph</td><td style=text-align: left; vertical-align: middle;><a href="http://www.geograph.org.uk/gridref/NY2808809524">Geograph</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Hill Bagging</td><td style=text-align: left; vertical-align: middle;><a href="http://www.hill-bagging.co.uk/mountaindetails.php?qu=S&rf=2396">Hill Bagging</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Xcoord:-</td><td style=text-align: left; vertical-align: middle;>328088</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Ycoord:-</td><td style=text-align: left; vertical-align: middle;>509524</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Latitude:-</td><td style=text-align: left; vertical-align: middle;>54.475962</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Longitude:-</td><td style=text-align: left; vertical-align: middle;>-3.111268</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>GridrefXY:-</td><td style=text-align: left; vertical-align: middle;>NY2808809524</td></tr>
+</table>
+</body>
+</html>
+
+<h4>copyright note</h4>
+<img src="https://i.creativecommons.org/l/by/4.0/88x31.png" align="left" hspace="5" vspace="0"></a>
+Data derived from the <a href="http://www.hills-database.co.uk/downloads.html#copyright">Database of British and Irish Hills - v17.3</a>
+licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Licence</a>
+]]>
+<!--Block5-->
+</mwm:lang>
+</mwm:description>
+<mwm:customName>
+<mwm:lang code="default">High Raise [High White Stones]</mwm:lang>
+</mwm:customName>
+<mwm:visibility>1</mwm:visibility>
+</ExtendedData>
+</Placemark>
+
+<!--Block2--> 
+<Placemark>
+<name>Harrison Stickle</name>
+<description></description>
+<styleUrl>#placemark-blue</styleUrl>
+<Point>
+<coordinates>-3.109455,54.456898</coordinates>
+</Point>
+<!--Block3--> 
+<ExtendedData xmlns:mwm="https://omaps.app">
+<mwm:name>
+<mwm:lang code="default">Harrison Stickle</mwm:lang>
+</mwm:name>
+<mwm:description>
+<mwm:lang code="default">
+<!--Block4-->
+<![CDATA[
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<br>
+<table style="width:100%">
+<tr><td style=text-align: left; vertical-align: middle;><b>Information</b><td style=text-align: left; vertical-align: middle;><b>Hills Database v17.3</b></td></tr><td style=text-align: left; vertical-align: middle;>Number:-<td style=text-align: left; vertical-align: middle;>2406</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Name:-</td><td style=text-align: left; vertical-align: middle;>Harrison Stickle</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent name (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Section:-</td><td style=text-align: left; vertical-align: middle;>34B</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Region:-</td><td style=text-align: left; vertical-align: middle;>34B: Lake District C&W</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Area:-</td><td style=text-align: left; vertical-align: middle;>Lake District - Central Fells</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Island:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Topo Section:-</td><td style=text-align: left; vertical-align: middle;>Q03:Keswick to Duddon Sands</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County:-</td><td style=text-align: left; vertical-align: middle;>Cumbria</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Classification:-</td><td style=text-align: left; vertical-align: middle;>Sim,Hew,N,W,B,Sy,Fel</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:50k:-</td><td style=text-align: left; vertical-align: middle;>89 90</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:25k:-</td><td style=text-align: left; vertical-align: middle;>OL6N</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Metres:-</td><td style=text-align: left; vertical-align: middle;>736</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feet:-</td><td style=text-align: left; vertical-align: middle;>2415</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY281074</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref 10:-</td><td style=text-align: left; vertical-align: middle;>NY 28173 07400</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Drop:-</td><td style=text-align: left; vertical-align: middle;>53</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY278087</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col height:-</td><td style=text-align: left; vertical-align: middle;>683</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feature:-</td><td style=text-align: left; vertical-align: middle;>rock 6m SSE of cairn</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Observations:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Survey:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Climbed:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Country:-</td><td style=text-align: left; vertical-align: middle;>E</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County Top:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Revision:-</td><td style=text-align: left; vertical-align: middle;>28/10/2001</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Street Map</td><td style=text-align: left; vertical-align: middle;><a href="http://www.streetmap.co.uk/map?X=328172&Y=507401&SV=328172,507401&A=Y&Z=115">Street Map</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Geograph</td><td style=text-align: left; vertical-align: middle;><a href="http://www.geograph.org.uk/gridref/NY2817207401">Geograph</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Hill Bagging</td><td style=text-align: left; vertical-align: middle;><a href="http://www.hill-bagging.co.uk/mountaindetails.php?qu=S&rf=2406">Hill Bagging</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Xcoord:-</td><td style=text-align: left; vertical-align: middle;>328172</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Ycoord:-</td><td style=text-align: left; vertical-align: middle;>507401</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Latitude:-</td><td style=text-align: left; vertical-align: middle;>54.456898</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Longitude:-</td><td style=text-align: left; vertical-align: middle;>-3.109455</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>GridrefXY:-</td><td style=text-align: left; vertical-align: middle;>NY2817207401</td></tr>
+</table>
+</body>
+</html>
+
+<h4>copyright note</h4>
+<img src="https://i.creativecommons.org/l/by/4.0/88x31.png" align="left" hspace="5" vspace="0"></a>
+Data derived from the <a href="http://www.hills-database.co.uk/downloads.html#copyright">Database of British and Irish Hills - v17.3</a>
+licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Licence</a>
+]]>
+<!--Block5-->
+</mwm:lang>
+</mwm:description>
+<mwm:customName>
+<mwm:lang code="default">Harrison Stickle</mwm:lang>
+</mwm:customName>
+<mwm:visibility>1</mwm:visibility>
+</ExtendedData>
+</Placemark>
+
+<!--Block2--> 
+<Placemark>
+<name>Sergeant Man</name>
+<description></description>
+<styleUrl>#placemark-blue</styleUrl>
+<Point>
+<coordinates>-3.102552,54.470362</coordinates>
+</Point>
+<!--Block3--> 
+<ExtendedData xmlns:mwm="https://omaps.app">
+<mwm:name>
+<mwm:lang code="default">Sergeant Man</mwm:lang>
+</mwm:name>
+<mwm:description>
+<mwm:lang code="default">
+<!--Block4-->
+<![CDATA[
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<br>
+<table style="width:100%">
+<tr><td style=text-align: left; vertical-align: middle;><b>Information</b><td style=text-align: left; vertical-align: middle;><b>Hills Database v17.3</b></td></tr><td style=text-align: left; vertical-align: middle;>Number:-<td style=text-align: left; vertical-align: middle;>2407</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Name:-</td><td style=text-align: left; vertical-align: middle;>Sergeant Man</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent name (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Section:-</td><td style=text-align: left; vertical-align: middle;>34B</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Region:-</td><td style=text-align: left; vertical-align: middle;>34B: Lake District C&W</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Area:-</td><td style=text-align: left; vertical-align: middle;>Lake District - Central Fells</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Island:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Topo Section:-</td><td style=text-align: left; vertical-align: middle;>Q03:Keswick to Duddon Sands</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County:-</td><td style=text-align: left; vertical-align: middle;>Cumbria</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Classification:-</td><td style=text-align: left; vertical-align: middle;>W,B,Sy,Fel,xN</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:50k:-</td><td style=text-align: left; vertical-align: middle;>89 90</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:25k:-</td><td style=text-align: left; vertical-align: middle;>OL6N</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Metres:-</td><td style=text-align: left; vertical-align: middle;>736</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feet:-</td><td style=text-align: left; vertical-align: middle;>2415</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY286088</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref 10:-</td><td style=text-align: left; vertical-align: middle;>NY 28644 08891</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Drop:-</td><td style=text-align: left; vertical-align: middle;>12</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY286089</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col height:-</td><td style=text-align: left; vertical-align: middle;>724</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feature:-</td><td style=text-align: left; vertical-align: middle;>small cairn on outcrop</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Observations:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Survey:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Climbed:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Country:-</td><td style=text-align: left; vertical-align: middle;>E</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County Top:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Revision:-</td><td style=text-align: left; vertical-align: middle;>10/03/2007</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Street Map</td><td style=text-align: left; vertical-align: middle;><a href="http://www.streetmap.co.uk/map?X=328643&Y=508892&SV=328643,508892&A=Y&Z=115">Street Map</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Geograph</td><td style=text-align: left; vertical-align: middle;><a href="http://www.geograph.org.uk/gridref/NY2864308892">Geograph</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Hill Bagging</td><td style=text-align: left; vertical-align: middle;><a href="http://www.hill-bagging.co.uk/mountaindetails.php?qu=S&rf=2407">Hill Bagging</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Xcoord:-</td><td style=text-align: left; vertical-align: middle;>328643</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Ycoord:-</td><td style=text-align: left; vertical-align: middle;>508892</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Latitude:-</td><td style=text-align: left; vertical-align: middle;>54.470362</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Longitude:-</td><td style=text-align: left; vertical-align: middle;>-3.102552</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>GridrefXY:-</td><td style=text-align: left; vertical-align: middle;>NY2864308892</td></tr>
+</table>
+</body>
+</html>
+
+<h4>copyright note</h4>
+<img src="https://i.creativecommons.org/l/by/4.0/88x31.png" align="left" hspace="5" vspace="0"></a>
+Data derived from the <a href="http://www.hills-database.co.uk/downloads.html#copyright">Database of British and Irish Hills - v17.3</a>
+licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Licence</a>
+]]>
+<!--Block5-->
+</mwm:lang>
+</mwm:description>
+<mwm:customName>
+<mwm:lang code="default">Sergeant Man</mwm:lang>
+</mwm:customName>
+<mwm:visibility>1</mwm:visibility>
+</ExtendedData>
+</Placemark>
+
+<!--Block2--> 
+<Placemark>
+<name>Ullscarf</name>
+<description></description>
+<styleUrl>#placemark-blue</styleUrl>
+<Point>
+<coordinates>-3.095518,54.499923</coordinates>
+</Point>
+<!--Block3--> 
+<ExtendedData xmlns:mwm="https://omaps.app">
+<mwm:name>
+<mwm:lang code="default">Ullscarf</mwm:lang>
+</mwm:name>
+<mwm:description>
+<mwm:lang code="default">
+<!--Block4-->
+<![CDATA[
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<br>
+<table style="width:100%">
+<tr><td style=text-align: left; vertical-align: middle;><b>Information</b><td style=text-align: left; vertical-align: middle;><b>Hills Database v17.3</b></td></tr><td style=text-align: left; vertical-align: middle;>Number:-<td style=text-align: left; vertical-align: middle;>2412</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Name:-</td><td style=text-align: left; vertical-align: middle;>Ullscarf</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent name (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Section:-</td><td style=text-align: left; vertical-align: middle;>34B</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Region:-</td><td style=text-align: left; vertical-align: middle;>34B: Lake District C&W</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Area:-</td><td style=text-align: left; vertical-align: middle;>Lake District - Central Fells</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Island:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Topo Section:-</td><td style=text-align: left; vertical-align: middle;>Q03:Keswick to Duddon Sands</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County:-</td><td style=text-align: left; vertical-align: middle;>Cumbria</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Classification:-</td><td style=text-align: left; vertical-align: middle;>Hu,Sim,Hew,N,W,B,Sy,Fel</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:50k:-</td><td style=text-align: left; vertical-align: middle;>89 90</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:25k:-</td><td style=text-align: left; vertical-align: middle;>OL4S</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Metres:-</td><td style=text-align: left; vertical-align: middle;>726</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feet:-</td><td style=text-align: left; vertical-align: middle;>2382</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY291121</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref 10:-</td><td style=text-align: left; vertical-align: middle;>NY 29151 12173</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Drop:-</td><td style=text-align: left; vertical-align: middle;>118</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY285105</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col height:-</td><td style=text-align: left; vertical-align: middle;>608</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feature:-</td><td style=text-align: left; vertical-align: middle;>cairn</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Observations:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Survey:-</td><td style=text-align: left; vertical-align: middle;>Abney level</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Climbed:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Country:-</td><td style=text-align: left; vertical-align: middle;>E</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County Top:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Revision:-</td><td style=text-align: left; vertical-align: middle;>20/11/2009</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Street Map</td><td style=text-align: left; vertical-align: middle;><a href="http://www.streetmap.co.uk/map?X=329150&Y=512174&SV=329150,512174&A=Y&Z=115">Street Map</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Geograph</td><td style=text-align: left; vertical-align: middle;><a href="http://www.geograph.org.uk/gridref/NY2915012174">Geograph</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Hill Bagging</td><td style=text-align: left; vertical-align: middle;><a href="http://www.hill-bagging.co.uk/mountaindetails.php?qu=S&rf=2412">Hill Bagging</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Xcoord:-</td><td style=text-align: left; vertical-align: middle;>329150</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Ycoord:-</td><td style=text-align: left; vertical-align: middle;>512174</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Latitude:-</td><td style=text-align: left; vertical-align: middle;>54.499923</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Longitude:-</td><td style=text-align: left; vertical-align: middle;>-3.095518</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>GridrefXY:-</td><td style=text-align: left; vertical-align: middle;>NY2915012174</td></tr>
+</table>
+</body>
+</html>
+
+<h4>copyright note</h4>
+<img src="https://i.creativecommons.org/l/by/4.0/88x31.png" align="left" hspace="5" vspace="0"></a>
+Data derived from the <a href="http://www.hills-database.co.uk/downloads.html#copyright">Database of British and Irish Hills - v17.3</a>
+licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Licence</a>
+]]>
+<!--Block5-->
+</mwm:lang>
+</mwm:description>
+<mwm:customName>
+<mwm:lang code="default">Ullscarf</mwm:lang>
+</mwm:customName>
+<mwm:visibility>1</mwm:visibility>
+</ExtendedData>
+</Placemark>
+
+<!--Block2--> 
+<Placemark>
+<name>Thunacar Knott</name>
+<description></description>
+<styleUrl>#placemark-blue</styleUrl>
+<Point>
+<coordinates>-3.112653,54.462189</coordinates>
+</Point>
+<!--Block3--> 
+<ExtendedData xmlns:mwm="https://omaps.app">
+<mwm:name>
+<mwm:lang code="default">Thunacar Knott</mwm:lang>
+</mwm:name>
+<mwm:description>
+<mwm:lang code="default">
+<!--Block4-->
+<![CDATA[
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<br>
+<table style="width:100%">
+<tr><td style=text-align: left; vertical-align: middle;><b>Information</b><td style=text-align: left; vertical-align: middle;><b>Hills Database v17.3</b></td></tr><td style=text-align: left; vertical-align: middle;>Number:-<td style=text-align: left; vertical-align: middle;>2413</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Name:-</td><td style=text-align: left; vertical-align: middle;>Thunacar Knott</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent name (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Section:-</td><td style=text-align: left; vertical-align: middle;>34B</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Region:-</td><td style=text-align: left; vertical-align: middle;>34B: Lake District C&W</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Area:-</td><td style=text-align: left; vertical-align: middle;>Lake District - Central Fells</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Island:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Topo Section:-</td><td style=text-align: left; vertical-align: middle;>Q03:Keswick to Duddon Sands</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County:-</td><td style=text-align: left; vertical-align: middle;>Cumbria</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Classification:-</td><td style=text-align: left; vertical-align: middle;>N,sSim,W,B,Sy,Fel</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:50k:-</td><td style=text-align: left; vertical-align: middle;>89 90</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:25k:-</td><td style=text-align: left; vertical-align: middle;>OL6N</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Metres:-</td><td style=text-align: left; vertical-align: middle;>723</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feet:-</td><td style=text-align: left; vertical-align: middle;>2372</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY279079</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref 10:-</td><td style=text-align: left; vertical-align: middle;>NY 27975 07992</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Drop:-</td><td style=text-align: left; vertical-align: middle;>27</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY280076</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col height:-</td><td style=text-align: left; vertical-align: middle;>696</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feature:-</td><td style=text-align: left; vertical-align: middle;>rock 3m NNE of cairn</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Observations:-</td><td style=text-align: left; vertical-align: middle;>Wainwright summit is mound 50m north of tarn NY 27925 08144</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Survey:-</td><td style=text-align: left; vertical-align: middle;>Abney level</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Climbed:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Country:-</td><td style=text-align: left; vertical-align: middle;>E</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County Top:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Revision:-</td><td style=text-align: left; vertical-align: middle;>28/10/2001</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Street Map</td><td style=text-align: left; vertical-align: middle;><a href="http://www.streetmap.co.uk/map?X=327974&Y=507993&SV=327974,507993&A=Y&Z=115">Street Map</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Geograph</td><td style=text-align: left; vertical-align: middle;><a href="http://www.geograph.org.uk/gridref/NY2797407993">Geograph</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Hill Bagging</td><td style=text-align: left; vertical-align: middle;><a href="http://www.hill-bagging.co.uk/mountaindetails.php?qu=S&rf=2413">Hill Bagging</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Xcoord:-</td><td style=text-align: left; vertical-align: middle;>327974</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Ycoord:-</td><td style=text-align: left; vertical-align: middle;>507993</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Latitude:-</td><td style=text-align: left; vertical-align: middle;>54.462189</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Longitude:-</td><td style=text-align: left; vertical-align: middle;>-3.112653</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>GridrefXY:-</td><td style=text-align: left; vertical-align: middle;>NY2797407993</td></tr>
+</table>
+</body>
+</html>
+
+<h4>copyright note</h4>
+<img src="https://i.creativecommons.org/l/by/4.0/88x31.png" align="left" hspace="5" vspace="0"></a>
+Data derived from the <a href="http://www.hills-database.co.uk/downloads.html#copyright">Database of British and Irish Hills - v17.3</a>
+licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Licence</a>
+]]>
+<!--Block5-->
+</mwm:lang>
+</mwm:description>
+<mwm:customName>
+<mwm:lang code="default">Thunacar Knott</mwm:lang>
+</mwm:customName>
+<mwm:visibility>1</mwm:visibility>
+</ExtendedData>
+</Placemark>
+
+<!--Block2--> 
+<Placemark>
+<name>Pike of Stickle</name>
+<description></description>
+<styleUrl>#placemark-blue</styleUrl>
+<Point>
+<coordinates>-3.121381,54.456393</coordinates>
+</Point>
+<!--Block3--> 
+<ExtendedData xmlns:mwm="https://omaps.app">
+<mwm:name>
+<mwm:lang code="default">Pike of Stickle</mwm:lang>
+</mwm:name>
+<mwm:description>
+<mwm:lang code="default">
+<!--Block4-->
+<![CDATA[
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<br>
+<table style="width:100%">
+<tr><td style=text-align: left; vertical-align: middle;><b>Information</b><td style=text-align: left; vertical-align: middle;><b>Hills Database v17.3</b></td></tr><td style=text-align: left; vertical-align: middle;>Number:-<td style=text-align: left; vertical-align: middle;>2417</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Name:-</td><td style=text-align: left; vertical-align: middle;>Pike of Stickle</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent name (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Section:-</td><td style=text-align: left; vertical-align: middle;>34B</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Region:-</td><td style=text-align: left; vertical-align: middle;>34B: Lake District C&W</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Area:-</td><td style=text-align: left; vertical-align: middle;>Lake District - Central Fells</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Island:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Topo Section:-</td><td style=text-align: left; vertical-align: middle;>Q03:Keswick to Duddon Sands</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County:-</td><td style=text-align: left; vertical-align: middle;>Cumbria</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Classification:-</td><td style=text-align: left; vertical-align: middle;>Sim,Hew,N,W,B,Sy,Fel</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:50k:-</td><td style=text-align: left; vertical-align: middle;>89 90</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:25k:-</td><td style=text-align: left; vertical-align: middle;>OL6N</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Metres:-</td><td style=text-align: left; vertical-align: middle;>708.4</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feet:-</td><td style=text-align: left; vertical-align: middle;>2324</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY273073</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref 10:-</td><td style=text-align: left; vertical-align: middle;>NY 27399 07356</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Drop:-</td><td style=text-align: left; vertical-align: middle;>53</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY275077</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col height:-</td><td style=text-align: left; vertical-align: middle;>655</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feature:-</td><td style=text-align: left; vertical-align: middle;>cairn</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Observations:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Survey:-</td><td style=text-align: left; vertical-align: middle;>obvious summit</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Climbed:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Country:-</td><td style=text-align: left; vertical-align: middle;>E</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County Top:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Revision:-</td><td style=text-align: left; vertical-align: middle;>11/11/2018</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Street Map</td><td style=text-align: left; vertical-align: middle;><a href="http://www.streetmap.co.uk/map?X=327398&Y=507357&SV=327398,507357&A=Y&Z=115">Street Map</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Geograph</td><td style=text-align: left; vertical-align: middle;><a href="http://www.geograph.org.uk/gridref/NY2739807357">Geograph</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Hill Bagging</td><td style=text-align: left; vertical-align: middle;><a href="http://www.hill-bagging.co.uk/mountaindetails.php?qu=S&rf=2417">Hill Bagging</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Xcoord:-</td><td style=text-align: left; vertical-align: middle;>327398</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Ycoord:-</td><td style=text-align: left; vertical-align: middle;>507357</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Latitude:-</td><td style=text-align: left; vertical-align: middle;>54.456393</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Longitude:-</td><td style=text-align: left; vertical-align: middle;>-3.121381</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>GridrefXY:-</td><td style=text-align: left; vertical-align: middle;>NY2739807357</td></tr>
+</table>
+</body>
+</html>
+
+<h4>copyright note</h4>
+<img src="https://i.creativecommons.org/l/by/4.0/88x31.png" align="left" hspace="5" vspace="0"></a>
+Data derived from the <a href="http://www.hills-database.co.uk/downloads.html#copyright">Database of British and Irish Hills - v17.3</a>
+licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Licence</a>
+]]>
+<!--Block5-->
+</mwm:lang>
+</mwm:description>
+<mwm:customName>
+<mwm:lang code="default">Pike of Stickle</mwm:lang>
+</mwm:customName>
+<mwm:visibility>1</mwm:visibility>
+</ExtendedData>
+</Placemark>
+
+<!--Block2--> 
+<Placemark>
+<name>Pavey Ark</name>
+<description></description>
+<styleUrl>#placemark-blue</styleUrl>
+<Point>
+<coordinates>-3.105214,54.461494</coordinates>
+</Point>
+<!--Block3--> 
+<ExtendedData xmlns:mwm="https://omaps.app">
+<mwm:name>
+<mwm:lang code="default">Pavey Ark</mwm:lang>
+</mwm:name>
+<mwm:description>
+<mwm:lang code="default">
+<!--Block4-->
+<![CDATA[
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<br>
+<table style="width:100%">
+<tr><td style=text-align: left; vertical-align: middle;><b>Information</b><td style=text-align: left; vertical-align: middle;><b>Hills Database v17.3</b></td></tr><td style=text-align: left; vertical-align: middle;>Number:-<td style=text-align: left; vertical-align: middle;>2423</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Name:-</td><td style=text-align: left; vertical-align: middle;>Pavey Ark</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent name (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Section:-</td><td style=text-align: left; vertical-align: middle;>34B</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Region:-</td><td style=text-align: left; vertical-align: middle;>34B: Lake District C&W</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Area:-</td><td style=text-align: left; vertical-align: middle;>Lake District - Central Fells</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Island:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Topo Section:-</td><td style=text-align: left; vertical-align: middle;>Q03:Keswick to Duddon Sands</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County:-</td><td style=text-align: left; vertical-align: middle;>Cumbria</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Classification:-</td><td style=text-align: left; vertical-align: middle;>N,W,B,Sy,Fel</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:50k:-</td><td style=text-align: left; vertical-align: middle;>89 90</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:25k:-</td><td style=text-align: left; vertical-align: middle;>OL6N</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Metres:-</td><td style=text-align: left; vertical-align: middle;>700</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feet:-</td><td style=text-align: left; vertical-align: middle;>2297</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY284079</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref 10:-</td><td style=text-align: left; vertical-align: middle;>NY 28456 07907</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Drop:-</td><td style=text-align: left; vertical-align: middle;>15</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY283079</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col height:-</td><td style=text-align: left; vertical-align: middle;>685</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feature:-</td><td style=text-align: left; vertical-align: middle;>tiny cairn on rock</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Observations:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Survey:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Climbed:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Country:-</td><td style=text-align: left; vertical-align: middle;>E</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County Top:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Revision:-</td><td style=text-align: left; vertical-align: middle;>28/10/2001</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Street Map</td><td style=text-align: left; vertical-align: middle;><a href="http://www.streetmap.co.uk/map?X=328455&Y=507908&SV=328455,507908&A=Y&Z=115">Street Map</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Geograph</td><td style=text-align: left; vertical-align: middle;><a href="http://www.geograph.org.uk/gridref/NY2845507908">Geograph</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Hill Bagging</td><td style=text-align: left; vertical-align: middle;><a href="http://www.hill-bagging.co.uk/mountaindetails.php?qu=S&rf=2423">Hill Bagging</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Xcoord:-</td><td style=text-align: left; vertical-align: middle;>328455</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Ycoord:-</td><td style=text-align: left; vertical-align: middle;>507908</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Latitude:-</td><td style=text-align: left; vertical-align: middle;>54.461494</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Longitude:-</td><td style=text-align: left; vertical-align: middle;>-3.105214</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>GridrefXY:-</td><td style=text-align: left; vertical-align: middle;>NY2845507908</td></tr>
+</table>
+</body>
+</html>
+
+<h4>copyright note</h4>
+<img src="https://i.creativecommons.org/l/by/4.0/88x31.png" align="left" hspace="5" vspace="0"></a>
+Data derived from the <a href="http://www.hills-database.co.uk/downloads.html#copyright">Database of British and Irish Hills - v17.3</a>
+licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Licence</a>
+]]>
+<!--Block5-->
+</mwm:lang>
+</mwm:description>
+<mwm:customName>
+<mwm:lang code="default">Pavey Ark</mwm:lang>
+</mwm:customName>
+<mwm:visibility>1</mwm:visibility>
+</ExtendedData>
+</Placemark>
+
+<!--Block2--> 
+<Placemark>
+<name>Loft Crag</name>
+<description></description>
+<styleUrl>#placemark-blue</styleUrl>
+<Point>
+<coordinates>-3.115991,54.454429</coordinates>
+</Point>
+<!--Block3--> 
+<ExtendedData xmlns:mwm="https://omaps.app">
+<mwm:name>
+<mwm:lang code="default">Loft Crag</mwm:lang>
+</mwm:name>
+<mwm:description>
+<mwm:lang code="default">
+<!--Block4-->
+<![CDATA[
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<br>
+<table style="width:100%">
+<tr><td style=text-align: left; vertical-align: middle;><b>Information</b><td style=text-align: left; vertical-align: middle;><b>Hills Database v17.3</b></td></tr><td style=text-align: left; vertical-align: middle;>Number:-<td style=text-align: left; vertical-align: middle;>2430</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Name:-</td><td style=text-align: left; vertical-align: middle;>Loft Crag</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent name (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Section:-</td><td style=text-align: left; vertical-align: middle;>34B</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Region:-</td><td style=text-align: left; vertical-align: middle;>34B: Lake District C&W</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Area:-</td><td style=text-align: left; vertical-align: middle;>Lake District - Central Fells</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Island:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Topo Section:-</td><td style=text-align: left; vertical-align: middle;>Q03:Keswick to Duddon Sands</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County:-</td><td style=text-align: left; vertical-align: middle;>Cumbria</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Classification:-</td><td style=text-align: left; vertical-align: middle;>N,sSim,W,B,Sy,Fel</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:50k:-</td><td style=text-align: left; vertical-align: middle;>89 90</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:25k:-</td><td style=text-align: left; vertical-align: middle;>OL6N</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Metres:-</td><td style=text-align: left; vertical-align: middle;>681.7</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feet:-</td><td style=text-align: left; vertical-align: middle;>2237</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY277071</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref 10:-</td><td style=text-align: left; vertical-align: middle;>NY 27745 07132</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Drop:-</td><td style=text-align: left; vertical-align: middle;>23.6</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY 2765 0722</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col height:-</td><td style=text-align: left; vertical-align: middle;>658.1</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feature:-</td><td style=text-align: left; vertical-align: middle;>small cairn on outcrop</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Observations:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Survey:-</td><td style=text-align: left; vertical-align: middle;>obvious summit</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Climbed:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Country:-</td><td style=text-align: left; vertical-align: middle;>E</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County Top:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Revision:-</td><td style=text-align: left; vertical-align: middle;>11/11/2018</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Street Map</td><td style=text-align: left; vertical-align: middle;><a href="http://www.streetmap.co.uk/map?X=327744&Y=507133&SV=327744,507133&A=Y&Z=115">Street Map</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Geograph</td><td style=text-align: left; vertical-align: middle;><a href="http://www.geograph.org.uk/gridref/NY2774407133">Geograph</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Hill Bagging</td><td style=text-align: left; vertical-align: middle;><a href="http://www.hill-bagging.co.uk/mountaindetails.php?qu=S&rf=2430">Hill Bagging</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Xcoord:-</td><td style=text-align: left; vertical-align: middle;>327744</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Ycoord:-</td><td style=text-align: left; vertical-align: middle;>507133</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Latitude:-</td><td style=text-align: left; vertical-align: middle;>54.454429</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Longitude:-</td><td style=text-align: left; vertical-align: middle;>-3.115991</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>GridrefXY:-</td><td style=text-align: left; vertical-align: middle;>NY2774407133</td></tr>
+</table>
+</body>
+</html>
+
+<h4>copyright note</h4>
+<img src="https://i.creativecommons.org/l/by/4.0/88x31.png" align="left" hspace="5" vspace="0"></a>
+Data derived from the <a href="http://www.hills-database.co.uk/downloads.html#copyright">Database of British and Irish Hills - v17.3</a>
+licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Licence</a>
+]]>
+<!--Block5-->
+</mwm:lang>
+</mwm:description>
+<mwm:customName>
+<mwm:lang code="default">Loft Crag</mwm:lang>
+</mwm:customName>
+<mwm:visibility>1</mwm:visibility>
+</ExtendedData>
+</Placemark>
+
+<!--Block2--> 
+<Placemark>
+<name>High Seat</name>
+<description></description>
+<styleUrl>#placemark-blue</styleUrl>
+<Point>
+<coordinates>-3.103765,54.552632</coordinates>
+</Point>
+<!--Block3--> 
+<ExtendedData xmlns:mwm="https://omaps.app">
+<mwm:name>
+<mwm:lang code="default">High Seat</mwm:lang>
+</mwm:name>
+<mwm:description>
+<mwm:lang code="default">
+<!--Block4-->
+<![CDATA[
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<br>
+<table style="width:100%">
+<tr><td style=text-align: left; vertical-align: middle;><b>Information</b><td style=text-align: left; vertical-align: middle;><b>Hills Database v17.3</b></td></tr><td style=text-align: left; vertical-align: middle;>Number:-<td style=text-align: left; vertical-align: middle;>2455</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Name:-</td><td style=text-align: left; vertical-align: middle;>High Seat</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent name (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Section:-</td><td style=text-align: left; vertical-align: middle;>34B</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Region:-</td><td style=text-align: left; vertical-align: middle;>34B: Lake District C&W</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Area:-</td><td style=text-align: left; vertical-align: middle;>Lake District - Central Fells</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Island:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Topo Section:-</td><td style=text-align: left; vertical-align: middle;>Q03:Keswick to Duddon Sands</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County:-</td><td style=text-align: left; vertical-align: middle;>Cumbria</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Classification:-</td><td style=text-align: left; vertical-align: middle;>Hu,Sim,Dew,W,B,Sy,Fel</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:50k:-</td><td style=text-align: left; vertical-align: middle;>89 90</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:25k:-</td><td style=text-align: left; vertical-align: middle;>OL4S</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Metres:-</td><td style=text-align: left; vertical-align: middle;>608</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feet:-</td><td style=text-align: left; vertical-align: middle;>1995</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY287180</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref 10:-</td><td style=text-align: left; vertical-align: middle;>NY 28709 18046</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Drop:-</td><td style=text-align: left; vertical-align: middle;>136</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY287155</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col height:-</td><td style=text-align: left; vertical-align: middle;>472</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feature:-</td><td style=text-align: left; vertical-align: middle;>rock 3m W of trig point</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Observations:-</td><td style=text-align: left; vertical-align: middle;>rock is 0.3m higher than fb; cairn 85m ENE at NY 287988 18075 is as high</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Survey:-</td><td style=text-align: left; vertical-align: middle;>Abney level</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Climbed:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Country:-</td><td style=text-align: left; vertical-align: middle;>E</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County Top:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Revision:-</td><td style=text-align: left; vertical-align: middle;>28/10/2001</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Street Map</td><td style=text-align: left; vertical-align: middle;><a href="http://www.streetmap.co.uk/map?X=328708&Y=518047&SV=328708,518047&A=Y&Z=115">Street Map</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Geograph</td><td style=text-align: left; vertical-align: middle;><a href="http://www.geograph.org.uk/gridref/NY2870818047">Geograph</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Hill Bagging</td><td style=text-align: left; vertical-align: middle;><a href="http://www.hill-bagging.co.uk/mountaindetails.php?qu=S&rf=2455">Hill Bagging</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Xcoord:-</td><td style=text-align: left; vertical-align: middle;>328708</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Ycoord:-</td><td style=text-align: left; vertical-align: middle;>518047</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Latitude:-</td><td style=text-align: left; vertical-align: middle;>54.552632</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Longitude:-</td><td style=text-align: left; vertical-align: middle;>-3.103765</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>GridrefXY:-</td><td style=text-align: left; vertical-align: middle;>NY2870818047</td></tr>
+</table>
+</body>
+</html>
+
+<h4>copyright note</h4>
+<img src="https://i.creativecommons.org/l/by/4.0/88x31.png" align="left" hspace="5" vspace="0"></a>
+Data derived from the <a href="http://www.hills-database.co.uk/downloads.html#copyright">Database of British and Irish Hills - v17.3</a>
+licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Licence</a>
+]]>
+<!--Block5-->
+</mwm:lang>
+</mwm:description>
+<mwm:customName>
+<mwm:lang code="default">High Seat</mwm:lang>
+</mwm:customName>
+<mwm:visibility>1</mwm:visibility>
+</ExtendedData>
+</Placemark>
+
+<!--Block2--> 
+<Placemark>
+<name>Bleaberry Fell</name>
+<description></description>
+<styleUrl>#placemark-blue</styleUrl>
+<Point>
+<coordinates>-3.106177,54.56637</coordinates>
+</Point>
+<!--Block3--> 
+<ExtendedData xmlns:mwm="https://omaps.app">
+<mwm:name>
+<mwm:lang code="default">Bleaberry Fell</mwm:lang>
+</mwm:name>
+<mwm:description>
+<mwm:lang code="default">
+<!--Block4-->
+<![CDATA[
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<br>
+<table style="width:100%">
+<tr><td style=text-align: left; vertical-align: middle;><b>Information</b><td style=text-align: left; vertical-align: middle;><b>Hills Database v17.3</b></td></tr><td style=text-align: left; vertical-align: middle;>Number:-<td style=text-align: left; vertical-align: middle;>2458</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Name:-</td><td style=text-align: left; vertical-align: middle;>Bleaberry Fell</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent name (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Section:-</td><td style=text-align: left; vertical-align: middle;>34B</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Region:-</td><td style=text-align: left; vertical-align: middle;>34B: Lake District C&W</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Area:-</td><td style=text-align: left; vertical-align: middle;>Lake District - Central Fells</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Island:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Topo Section:-</td><td style=text-align: left; vertical-align: middle;>Q03:Keswick to Duddon Sands</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County:-</td><td style=text-align: left; vertical-align: middle;>Cumbria</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Classification:-</td><td style=text-align: left; vertical-align: middle;>5,Dew,W,B,Sy,Fel</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:50k:-</td><td style=text-align: left; vertical-align: middle;>89 90</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:25k:-</td><td style=text-align: left; vertical-align: middle;>OL4S</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Metres:-</td><td style=text-align: left; vertical-align: middle;>590</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feet:-</td><td style=text-align: left; vertical-align: middle;>1936</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY285195</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref 10:-</td><td style=text-align: left; vertical-align: middle;>NY 28577 19577</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Drop:-</td><td style=text-align: left; vertical-align: middle;>42</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY289187</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col height:-</td><td style=text-align: left; vertical-align: middle;>548</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feature:-</td><td style=text-align: left; vertical-align: middle;>outcrop 10m E of wind shelter</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Observations:-</td><td style=text-align: left; vertical-align: middle;>rock 30m SE of wind shelter is as high, wind shelter is Wainwright summit</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Survey:-</td><td style=text-align: left; vertical-align: middle;>Abney level</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Climbed:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Country:-</td><td style=text-align: left; vertical-align: middle;>E</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County Top:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Revision:-</td><td style=text-align: left; vertical-align: middle;>30/06/2007</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Street Map</td><td style=text-align: left; vertical-align: middle;><a href="http://www.streetmap.co.uk/map?X=328576&Y=519578&SV=328576,519578&A=Y&Z=115">Street Map</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Geograph</td><td style=text-align: left; vertical-align: middle;><a href="http://www.geograph.org.uk/gridref/NY2857619578">Geograph</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Hill Bagging</td><td style=text-align: left; vertical-align: middle;><a href="http://www.hill-bagging.co.uk/mountaindetails.php?qu=S&rf=2458">Hill Bagging</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Xcoord:-</td><td style=text-align: left; vertical-align: middle;>328576</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Ycoord:-</td><td style=text-align: left; vertical-align: middle;>519578</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Latitude:-</td><td style=text-align: left; vertical-align: middle;>54.56637</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Longitude:-</td><td style=text-align: left; vertical-align: middle;>-3.106177</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>GridrefXY:-</td><td style=text-align: left; vertical-align: middle;>NY2857619578</td></tr>
+</table>
+</body>
+</html>
+
+<h4>copyright note</h4>
+<img src="https://i.creativecommons.org/l/by/4.0/88x31.png" align="left" hspace="5" vspace="0"></a>
+Data derived from the <a href="http://www.hills-database.co.uk/downloads.html#copyright">Database of British and Irish Hills - v17.3</a>
+licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Licence</a>
+]]>
+<!--Block5-->
+</mwm:lang>
+</mwm:description>
+<mwm:customName>
+<mwm:lang code="default">Bleaberry Fell</mwm:lang>
+</mwm:customName>
+<mwm:visibility>1</mwm:visibility>
+</ExtendedData>
+</Placemark>
+
+<!--Block2--> 
+<Placemark>
+<name>Sergeant's Crag</name>
+<description></description>
+<styleUrl>#placemark-blue</styleUrl>
+<Point>
+<coordinates>-3.122463,54.492531</coordinates>
+</Point>
+<!--Block3--> 
+<ExtendedData xmlns:mwm="https://omaps.app">
+<mwm:name>
+<mwm:lang code="default">Sergeant's Crag</mwm:lang>
+</mwm:name>
+<mwm:description>
+<mwm:lang code="default">
+<!--Block4-->
+<![CDATA[
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<br>
+<table style="width:100%">
+<tr><td style=text-align: left; vertical-align: middle;><b>Information</b><td style=text-align: left; vertical-align: middle;><b>Hills Database v17.3</b></td></tr><td style=text-align: left; vertical-align: middle;>Number:-<td style=text-align: left; vertical-align: middle;>2463</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Name:-</td><td style=text-align: left; vertical-align: middle;>Sergeant's Crag</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent name (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Section:-</td><td style=text-align: left; vertical-align: middle;>34B</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Region:-</td><td style=text-align: left; vertical-align: middle;>34B: Lake District C&W</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Area:-</td><td style=text-align: left; vertical-align: middle;>Lake District - Central Fells</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Island:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Topo Section:-</td><td style=text-align: left; vertical-align: middle;>Q03:Keswick to Duddon Sands</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County:-</td><td style=text-align: left; vertical-align: middle;>Cumbria</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Classification:-</td><td style=text-align: left; vertical-align: middle;>5,Dew,W,B,Sy,Fel</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:50k:-</td><td style=text-align: left; vertical-align: middle;>89 90</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:25k:-</td><td style=text-align: left; vertical-align: middle;>OL4S</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Metres:-</td><td style=text-align: left; vertical-align: middle;>571</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feet:-</td><td style=text-align: left; vertical-align: middle;>1873</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY273113</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref 10:-</td><td style=text-align: left; vertical-align: middle;>NY 27393 11378</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Drop:-</td><td style=text-align: left; vertical-align: middle;>45</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY274109</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col height:-</td><td style=text-align: left; vertical-align: middle;>526</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feature:-</td><td style=text-align: left; vertical-align: middle;>rock 2m from cairn</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Observations:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Survey:-</td><td style=text-align: left; vertical-align: middle;>obvious summit</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Climbed:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Country:-</td><td style=text-align: left; vertical-align: middle;>E</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County Top:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Revision:-</td><td style=text-align: left; vertical-align: middle;>06/05/2010</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Street Map</td><td style=text-align: left; vertical-align: middle;><a href="http://www.streetmap.co.uk/map?X=327392&Y=511379&SV=327392,511379&A=Y&Z=115">Street Map</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Geograph</td><td style=text-align: left; vertical-align: middle;><a href="http://www.geograph.org.uk/gridref/NY2739211379">Geograph</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Hill Bagging</td><td style=text-align: left; vertical-align: middle;><a href="http://www.hill-bagging.co.uk/mountaindetails.php?qu=S&rf=2463">Hill Bagging</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Xcoord:-</td><td style=text-align: left; vertical-align: middle;>327392</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Ycoord:-</td><td style=text-align: left; vertical-align: middle;>511379</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Latitude:-</td><td style=text-align: left; vertical-align: middle;>54.492531</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Longitude:-</td><td style=text-align: left; vertical-align: middle;>-3.122463</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>GridrefXY:-</td><td style=text-align: left; vertical-align: middle;>NY2739211379</td></tr>
+</table>
+</body>
+</html>
+
+<h4>copyright note</h4>
+<img src="https://i.creativecommons.org/l/by/4.0/88x31.png" align="left" hspace="5" vspace="0"></a>
+Data derived from the <a href="http://www.hills-database.co.uk/downloads.html#copyright">Database of British and Irish Hills - v17.3</a>
+licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Licence</a>
+]]>
+<!--Block5-->
+</mwm:lang>
+</mwm:description>
+<mwm:customName>
+<mwm:lang code="default">Sergeant's Crag</mwm:lang>
+</mwm:customName>
+<mwm:visibility>1</mwm:visibility>
+</ExtendedData>
+</Placemark>
+
+<!--Block2--> 
+<Placemark>
+<name>Steel Fell [Dead Pike - Steel Fell]</name>
+<description></description>
+<styleUrl>#placemark-blue</styleUrl>
+<Point>
+<coordinates>-3.052179,54.49115</coordinates>
+</Point>
+<!--Block3--> 
+<ExtendedData xmlns:mwm="https://omaps.app">
+<mwm:name>
+<mwm:lang code="default">Steel Fell [Dead Pike - Steel Fell]</mwm:lang>
+</mwm:name>
+<mwm:description>
+<mwm:lang code="default">
+<!--Block4-->
+<![CDATA[
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<br>
+<table style="width:100%">
+<tr><td style=text-align: left; vertical-align: middle;><b>Information</b><td style=text-align: left; vertical-align: middle;><b>Hills Database v17.3</b></td></tr><td style=text-align: left; vertical-align: middle;>Number:-<td style=text-align: left; vertical-align: middle;>2466</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Name:-</td><td style=text-align: left; vertical-align: middle;>Steel Fell [Dead Pike - Steel Fell]</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent name (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Section:-</td><td style=text-align: left; vertical-align: middle;>34B</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Region:-</td><td style=text-align: left; vertical-align: middle;>34B: Lake District C&W</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Area:-</td><td style=text-align: left; vertical-align: middle;>Lake District - Central Fells</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Island:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Topo Section:-</td><td style=text-align: left; vertical-align: middle;>Q03:Keswick to Duddon Sands</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County:-</td><td style=text-align: left; vertical-align: middle;>Cumbria</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Classification:-</td><td style=text-align: left; vertical-align: middle;>5,Dew,W,B,Sy,Fel</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:50k:-</td><td style=text-align: left; vertical-align: middle;>90</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:25k:-</td><td style=text-align: left; vertical-align: middle;>OL5S</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Metres:-</td><td style=text-align: left; vertical-align: middle;>553</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feet:-</td><td style=text-align: left; vertical-align: middle;>1814</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY319111</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref 10:-</td><td style=text-align: left; vertical-align: middle;>NY 31943 11154</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Drop:-</td><td style=text-align: left; vertical-align: middle;>80</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY304110</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col height:-</td><td style=text-align: left; vertical-align: middle;>473</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feature:-</td><td style=text-align: left; vertical-align: middle;>cairn</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Observations:-</td><td style=text-align: left; vertical-align: middle;>cairn 80m E at NY 32023 11167 is 2m lower</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Survey:-</td><td style=text-align: left; vertical-align: middle;>Abney level</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Climbed:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Country:-</td><td style=text-align: left; vertical-align: middle;>E</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County Top:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Revision:-</td><td style=text-align: left; vertical-align: middle;>08/06/2009</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Street Map</td><td style=text-align: left; vertical-align: middle;><a href="http://www.streetmap.co.uk/map?X=331942&Y=511155&SV=331942,511155&A=Y&Z=115">Street Map</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Geograph</td><td style=text-align: left; vertical-align: middle;><a href="http://www.geograph.org.uk/gridref/NY3194211155">Geograph</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Hill Bagging</td><td style=text-align: left; vertical-align: middle;><a href="http://www.hill-bagging.co.uk/mountaindetails.php?qu=S&rf=2466">Hill Bagging</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Xcoord:-</td><td style=text-align: left; vertical-align: middle;>331942</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Ycoord:-</td><td style=text-align: left; vertical-align: middle;>511155</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Latitude:-</td><td style=text-align: left; vertical-align: middle;>54.49115</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Longitude:-</td><td style=text-align: left; vertical-align: middle;>-3.052179</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>GridrefXY:-</td><td style=text-align: left; vertical-align: middle;>NY3194211155</td></tr>
+</table>
+</body>
+</html>
+
+<h4>copyright note</h4>
+<img src="https://i.creativecommons.org/l/by/4.0/88x31.png" align="left" hspace="5" vspace="0"></a>
+Data derived from the <a href="http://www.hills-database.co.uk/downloads.html#copyright">Database of British and Irish Hills - v17.3</a>
+licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Licence</a>
+]]>
+<!--Block5-->
+</mwm:lang>
+</mwm:description>
+<mwm:customName>
+<mwm:lang code="default">Steel Fell [Dead Pike - Steel Fell]</mwm:lang>
+</mwm:customName>
+<mwm:visibility>1</mwm:visibility>
+</ExtendedData>
+</Placemark>
+
+<!--Block2--> 
+<Placemark>
+<name>Tarn Crag (Easedale)</name>
+<description></description>
+<styleUrl>#placemark-blue</styleUrl>
+<Point>
+<coordinates>-3.076006,54.474295</coordinates>
+</Point>
+<!--Block3--> 
+<ExtendedData xmlns:mwm="https://omaps.app">
+<mwm:name>
+<mwm:lang code="default">Tarn Crag (Easedale)</mwm:lang>
+</mwm:name>
+<mwm:description>
+<mwm:lang code="default">
+<!--Block4-->
+<![CDATA[
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<br>
+<table style="width:100%">
+<tr><td style=text-align: left; vertical-align: middle;><b>Information</b><td style=text-align: left; vertical-align: middle;><b>Hills Database v17.3</b></td></tr><td style=text-align: left; vertical-align: middle;>Number:-<td style=text-align: left; vertical-align: middle;>2468</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Name:-</td><td style=text-align: left; vertical-align: middle;>Tarn Crag (Easedale)</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent name (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Section:-</td><td style=text-align: left; vertical-align: middle;>34B</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Region:-</td><td style=text-align: left; vertical-align: middle;>34B: Lake District C&W</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Area:-</td><td style=text-align: left; vertical-align: middle;>Lake District - Central Fells</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Island:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Topo Section:-</td><td style=text-align: left; vertical-align: middle;>Q03:Keswick to Duddon Sands</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County:-</td><td style=text-align: left; vertical-align: middle;>Cumbria</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Classification:-</td><td style=text-align: left; vertical-align: middle;>W,B,Sy,Fel</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:50k:-</td><td style=text-align: left; vertical-align: middle;>90</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:25k:-</td><td style=text-align: left; vertical-align: middle;>OL4S OL5S OL6N OL7N</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Metres:-</td><td style=text-align: left; vertical-align: middle;>549</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feet:-</td><td style=text-align: left; vertical-align: middle;>1801</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY303093</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref 10:-</td><td style=text-align: left; vertical-align: middle;>NY 30371 09302</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Drop:-</td><td style=text-align: left; vertical-align: middle;>4</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY303093</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col height:-</td><td style=text-align: left; vertical-align: middle;>545</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feature:-</td><td style=text-align: left; vertical-align: middle;>cairn on rocky outcrop</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Observations:-</td><td style=text-align: left; vertical-align: middle;>cairn is Wainwright and Birkett; it is c 3m lower than highest point of fell 100m WNW at NY 30277 09335</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Survey:-</td><td style=text-align: left; vertical-align: middle;>Abney level</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Climbed:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Country:-</td><td style=text-align: left; vertical-align: middle;>E</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County Top:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Revision:-</td><td style=text-align: left; vertical-align: middle;>14/02/2014</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Street Map</td><td style=text-align: left; vertical-align: middle;><a href="http://www.streetmap.co.uk/map?X=330370&Y=509303&SV=330370,509303&A=Y&Z=115">Street Map</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Geograph</td><td style=text-align: left; vertical-align: middle;><a href="http://www.geograph.org.uk/gridref/NY3037009303">Geograph</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Hill Bagging</td><td style=text-align: left; vertical-align: middle;><a href="http://www.hill-bagging.co.uk/mountaindetails.php?qu=S&rf=2468">Hill Bagging</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Xcoord:-</td><td style=text-align: left; vertical-align: middle;>330370</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Ycoord:-</td><td style=text-align: left; vertical-align: middle;>509303</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Latitude:-</td><td style=text-align: left; vertical-align: middle;>54.474295</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Longitude:-</td><td style=text-align: left; vertical-align: middle;>-3.076006</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>GridrefXY:-</td><td style=text-align: left; vertical-align: middle;>NY3037009303</td></tr>
+</table>
+</body>
+</html>
+
+<h4>copyright note</h4>
+<img src="https://i.creativecommons.org/l/by/4.0/88x31.png" align="left" hspace="5" vspace="0"></a>
+Data derived from the <a href="http://www.hills-database.co.uk/downloads.html#copyright">Database of British and Irish Hills - v17.3</a>
+licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Licence</a>
+]]>
+<!--Block5-->
+</mwm:lang>
+</mwm:description>
+<mwm:customName>
+<mwm:lang code="default">Tarn Crag (Easedale)</mwm:lang>
+</mwm:customName>
+<mwm:visibility>1</mwm:visibility>
+</ExtendedData>
+</Placemark>
+
+<!--Block2--> 
+<Placemark>
+<name>Blea Rigg</name>
+<description></description>
+<styleUrl>#placemark-blue</styleUrl>
+<Point>
+<coordinates>-3.078806,54.461076</coordinates>
+</Point>
+<!--Block3--> 
+<ExtendedData xmlns:mwm="https://omaps.app">
+<mwm:name>
+<mwm:lang code="default">Blea Rigg</mwm:lang>
+</mwm:name>
+<mwm:description>
+<mwm:lang code="default">
+<!--Block4-->
+<![CDATA[
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<br>
+<table style="width:100%">
+<tr><td style=text-align: left; vertical-align: middle;><b>Information</b><td style=text-align: left; vertical-align: middle;><b>Hills Database v17.3</b></td></tr><td style=text-align: left; vertical-align: middle;>Number:-<td style=text-align: left; vertical-align: middle;>2470</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Name:-</td><td style=text-align: left; vertical-align: middle;>Blea Rigg</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent name (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Section:-</td><td style=text-align: left; vertical-align: middle;>34B</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Region:-</td><td style=text-align: left; vertical-align: middle;>34B: Lake District C&W</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Area:-</td><td style=text-align: left; vertical-align: middle;>Lake District - Central Fells</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Island:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Topo Section:-</td><td style=text-align: left; vertical-align: middle;>Q03:Keswick to Duddon Sands</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County:-</td><td style=text-align: left; vertical-align: middle;>Cumbria</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Classification:-</td><td style=text-align: left; vertical-align: middle;>W,B,Sy,Fel</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:50k:-</td><td style=text-align: left; vertical-align: middle;>90</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:25k:-</td><td style=text-align: left; vertical-align: middle;>OL6N OL7N</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Metres:-</td><td style=text-align: left; vertical-align: middle;>541</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feet:-</td><td style=text-align: left; vertical-align: middle;>1775</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY301078</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref 10:-</td><td style=text-align: left; vertical-align: middle;>NY 30167 07834</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Drop:-</td><td style=text-align: left; vertical-align: middle;>11</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY300078</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col height:-</td><td style=text-align: left; vertical-align: middle;>530</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feature:-</td><td style=text-align: left; vertical-align: middle;>cairn</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Observations:-</td><td style=text-align: left; vertical-align: middle;>Wainwright summit; rocky knoll 80m WSW at NY 30079 07807 is c 3m higher</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Survey:-</td><td style=text-align: left; vertical-align: middle;>Abney level</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Climbed:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Country:-</td><td style=text-align: left; vertical-align: middle;>E</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County Top:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Revision:-</td><td style=text-align: left; vertical-align: middle;>30/06/2007</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Street Map</td><td style=text-align: left; vertical-align: middle;><a href="http://www.streetmap.co.uk/map?X=330166&Y=507835&SV=330166,507835&A=Y&Z=115">Street Map</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Geograph</td><td style=text-align: left; vertical-align: middle;><a href="http://www.geograph.org.uk/gridref/NY3016607835">Geograph</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Hill Bagging</td><td style=text-align: left; vertical-align: middle;><a href="http://www.hill-bagging.co.uk/mountaindetails.php?qu=S&rf=2470">Hill Bagging</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Xcoord:-</td><td style=text-align: left; vertical-align: middle;>330166</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Ycoord:-</td><td style=text-align: left; vertical-align: middle;>507835</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Latitude:-</td><td style=text-align: left; vertical-align: middle;>54.461076</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Longitude:-</td><td style=text-align: left; vertical-align: middle;>-3.078806</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>GridrefXY:-</td><td style=text-align: left; vertical-align: middle;>NY3016607835</td></tr>
+</table>
+</body>
+</html>
+
+<h4>copyright note</h4>
+<img src="https://i.creativecommons.org/l/by/4.0/88x31.png" align="left" hspace="5" vspace="0"></a>
+Data derived from the <a href="http://www.hills-database.co.uk/downloads.html#copyright">Database of British and Irish Hills - v17.3</a>
+licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Licence</a>
+]]>
+<!--Block5-->
+</mwm:lang>
+</mwm:description>
+<mwm:customName>
+<mwm:lang code="default">Blea Rigg</mwm:lang>
+</mwm:customName>
+<mwm:visibility>1</mwm:visibility>
+</ExtendedData>
+</Placemark>
+
+<!--Block2--> 
+<Placemark>
+<name>Calf Crag</name>
+<description></description>
+<styleUrl>#placemark-blue</styleUrl>
+<Point>
+<coordinates>-3.079493,54.484231</coordinates>
+</Point>
+<!--Block3--> 
+<ExtendedData xmlns:mwm="https://omaps.app">
+<mwm:name>
+<mwm:lang code="default">Calf Crag</mwm:lang>
+</mwm:name>
+<mwm:description>
+<mwm:lang code="default">
+<!--Block4-->
+<![CDATA[
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<br>
+<table style="width:100%">
+<tr><td style=text-align: left; vertical-align: middle;><b>Information</b><td style=text-align: left; vertical-align: middle;><b>Hills Database v17.3</b></td></tr><td style=text-align: left; vertical-align: middle;>Number:-<td style=text-align: left; vertical-align: middle;>2472</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Name:-</td><td style=text-align: left; vertical-align: middle;>Calf Crag</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent name (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Section:-</td><td style=text-align: left; vertical-align: middle;>34B</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Region:-</td><td style=text-align: left; vertical-align: middle;>34B: Lake District C&W</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Area:-</td><td style=text-align: left; vertical-align: middle;>Lake District - Central Fells</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Island:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Topo Section:-</td><td style=text-align: left; vertical-align: middle;>Q03:Keswick to Duddon Sands</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County:-</td><td style=text-align: left; vertical-align: middle;>Cumbria</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Classification:-</td><td style=text-align: left; vertical-align: middle;>5,Dew,W,B,Sy,Fel</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:50k:-</td><td style=text-align: left; vertical-align: middle;>90</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:25k:-</td><td style=text-align: left; vertical-align: middle;>OL4S OL5S OL6N OL7N</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Metres:-</td><td style=text-align: left; vertical-align: middle;>537</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feet:-</td><td style=text-align: left; vertical-align: middle;>1762</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY301104</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref 10:-</td><td style=text-align: left; vertical-align: middle;>NY 30162 10411</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Drop:-</td><td style=text-align: left; vertical-align: middle;>50</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY295102</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col height:-</td><td style=text-align: left; vertical-align: middle;>487</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feature:-</td><td style=text-align: left; vertical-align: middle;>cairn</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Observations:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Survey:-</td><td style=text-align: left; vertical-align: middle;>Abney level</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Climbed:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Country:-</td><td style=text-align: left; vertical-align: middle;>E</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County Top:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Revision:-</td><td style=text-align: left; vertical-align: middle;>28/10/2001</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Street Map</td><td style=text-align: left; vertical-align: middle;><a href="http://www.streetmap.co.uk/map?X=330161&Y=510412&SV=330161,510412&A=Y&Z=115">Street Map</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Geograph</td><td style=text-align: left; vertical-align: middle;><a href="http://www.geograph.org.uk/gridref/NY3016110412">Geograph</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Hill Bagging</td><td style=text-align: left; vertical-align: middle;><a href="http://www.hill-bagging.co.uk/mountaindetails.php?qu=S&rf=2472">Hill Bagging</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Xcoord:-</td><td style=text-align: left; vertical-align: middle;>330161</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Ycoord:-</td><td style=text-align: left; vertical-align: middle;>510412</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Latitude:-</td><td style=text-align: left; vertical-align: middle;>54.484231</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Longitude:-</td><td style=text-align: left; vertical-align: middle;>-3.079493</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>GridrefXY:-</td><td style=text-align: left; vertical-align: middle;>NY3016110412</td></tr>
+</table>
+</body>
+</html>
+
+<h4>copyright note</h4>
+<img src="https://i.creativecommons.org/l/by/4.0/88x31.png" align="left" hspace="5" vspace="0"></a>
+Data derived from the <a href="http://www.hills-database.co.uk/downloads.html#copyright">Database of British and Irish Hills - v17.3</a>
+licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Licence</a>
+]]>
+<!--Block5-->
+</mwm:lang>
+</mwm:description>
+<mwm:customName>
+<mwm:lang code="default">Calf Crag</mwm:lang>
+</mwm:customName>
+<mwm:visibility>1</mwm:visibility>
+</ExtendedData>
+</Placemark>
+
+<!--Block2--> 
+<Placemark>
+<name>Eagle Crag</name>
+<description></description>
+<styleUrl>#placemark-blue</styleUrl>
+<Point>
+<coordinates>-3.12048,54.499056</coordinates>
+</Point>
+<!--Block3--> 
+<ExtendedData xmlns:mwm="https://omaps.app">
+<mwm:name>
+<mwm:lang code="default">Eagle Crag</mwm:lang>
+</mwm:name>
+<mwm:description>
+<mwm:lang code="default">
+<!--Block4-->
+<![CDATA[
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<br>
+<table style="width:100%">
+<tr><td style=text-align: left; vertical-align: middle;><b>Information</b><td style=text-align: left; vertical-align: middle;><b>Hills Database v17.3</b></td></tr><td style=text-align: left; vertical-align: middle;>Number:-<td style=text-align: left; vertical-align: middle;>2475</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Name:-</td><td style=text-align: left; vertical-align: middle;>Eagle Crag</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent name (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Section:-</td><td style=text-align: left; vertical-align: middle;>34B</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Region:-</td><td style=text-align: left; vertical-align: middle;>34B: Lake District C&W</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Area:-</td><td style=text-align: left; vertical-align: middle;>Lake District - Central Fells</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Island:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Topo Section:-</td><td style=text-align: left; vertical-align: middle;>Q03:Keswick to Duddon Sands</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County:-</td><td style=text-align: left; vertical-align: middle;>Cumbria</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Classification:-</td><td style=text-align: left; vertical-align: middle;>s5,W,B,Sy,Fel</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:50k:-</td><td style=text-align: left; vertical-align: middle;>89 90</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:25k:-</td><td style=text-align: left; vertical-align: middle;>OL4S</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Metres:-</td><td style=text-align: left; vertical-align: middle;>525</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feet:-</td><td style=text-align: left; vertical-align: middle;>1722</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY275121</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref 10:-</td><td style=text-align: left; vertical-align: middle;>NY 27533 12102</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Drop:-</td><td style=text-align: left; vertical-align: middle;>27</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY276118</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col height:-</td><td style=text-align: left; vertical-align: middle;>498</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feature:-</td><td style=text-align: left; vertical-align: middle;>a few stones on sloping rock slab</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Observations:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Survey:-</td><td style=text-align: left; vertical-align: middle;>obvious summit</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Climbed:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Country:-</td><td style=text-align: left; vertical-align: middle;>E</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County Top:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Revision:-</td><td style=text-align: left; vertical-align: middle;>06/05/2010</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Street Map</td><td style=text-align: left; vertical-align: middle;><a href="http://www.streetmap.co.uk/map?X=327532&Y=512103&SV=327532,512103&A=Y&Z=115">Street Map</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Geograph</td><td style=text-align: left; vertical-align: middle;><a href="http://www.geograph.org.uk/gridref/NY2753212103">Geograph</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Hill Bagging</td><td style=text-align: left; vertical-align: middle;><a href="http://www.hill-bagging.co.uk/mountaindetails.php?qu=S&rf=2475">Hill Bagging</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Xcoord:-</td><td style=text-align: left; vertical-align: middle;>327532</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Ycoord:-</td><td style=text-align: left; vertical-align: middle;>512103</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Latitude:-</td><td style=text-align: left; vertical-align: middle;>54.499056</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Longitude:-</td><td style=text-align: left; vertical-align: middle;>-3.12048</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>GridrefXY:-</td><td style=text-align: left; vertical-align: middle;>NY2753212103</td></tr>
+</table>
+</body>
+</html>
+
+<h4>copyright note</h4>
+<img src="https://i.creativecommons.org/l/by/4.0/88x31.png" align="left" hspace="5" vspace="0"></a>
+Data derived from the <a href="http://www.hills-database.co.uk/downloads.html#copyright">Database of British and Irish Hills - v17.3</a>
+licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Licence</a>
+]]>
+<!--Block5-->
+</mwm:lang>
+</mwm:description>
+<mwm:customName>
+<mwm:lang code="default">Eagle Crag</mwm:lang>
+</mwm:customName>
+<mwm:visibility>1</mwm:visibility>
+</ExtendedData>
+</Placemark>
+
+<!--Block2--> 
+<Placemark>
+<name>High Tove</name>
+<description></description>
+<styleUrl>#placemark-blue</styleUrl>
+<Point>
+<coordinates>-3.100209,54.53886</coordinates>
+</Point>
+<!--Block3--> 
+<ExtendedData xmlns:mwm="https://omaps.app">
+<mwm:name>
+<mwm:lang code="default">High Tove</mwm:lang>
+</mwm:name>
+<mwm:description>
+<mwm:lang code="default">
+<!--Block4-->
+<![CDATA[
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<br>
+<table style="width:100%">
+<tr><td style=text-align: left; vertical-align: middle;><b>Information</b><td style=text-align: left; vertical-align: middle;><b>Hills Database v17.3</b></td></tr><td style=text-align: left; vertical-align: middle;>Number:-<td style=text-align: left; vertical-align: middle;>2478</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Name:-</td><td style=text-align: left; vertical-align: middle;>High Tove</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent name (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Section:-</td><td style=text-align: left; vertical-align: middle;>34B</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Region:-</td><td style=text-align: left; vertical-align: middle;>34B: Lake District C&W</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Area:-</td><td style=text-align: left; vertical-align: middle;>Lake District - Central Fells</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Island:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Topo Section:-</td><td style=text-align: left; vertical-align: middle;>Q03:Keswick to Duddon Sands</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County:-</td><td style=text-align: left; vertical-align: middle;>Cumbria</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Classification:-</td><td style=text-align: left; vertical-align: middle;>W,B,Sy,Fel</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:50k:-</td><td style=text-align: left; vertical-align: middle;>89 90</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:25k:-</td><td style=text-align: left; vertical-align: middle;>OL4S</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Metres:-</td><td style=text-align: left; vertical-align: middle;>515</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feet:-</td><td style=text-align: left; vertical-align: middle;>1690</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY289165</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref 10:-</td><td style=text-align: left; vertical-align: middle;>NY 28915 16510</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Drop:-</td><td style=text-align: left; vertical-align: middle;>16</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY288168</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col height:-</td><td style=text-align: left; vertical-align: middle;>499</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feature:-</td><td style=text-align: left; vertical-align: middle;>ground by cairn SE of fence</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Observations:-</td><td style=text-align: left; vertical-align: middle;>ground 10m N of cairn is as high</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Survey:-</td><td style=text-align: left; vertical-align: middle;>Abney level</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Climbed:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Country:-</td><td style=text-align: left; vertical-align: middle;>E</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County Top:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Revision:-</td><td style=text-align: left; vertical-align: middle;>10/11/2008</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Street Map</td><td style=text-align: left; vertical-align: middle;><a href="http://www.streetmap.co.uk/map?X=328914&Y=516511&SV=328914,516511&A=Y&Z=115">Street Map</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Geograph</td><td style=text-align: left; vertical-align: middle;><a href="http://www.geograph.org.uk/gridref/NY2891416511">Geograph</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Hill Bagging</td><td style=text-align: left; vertical-align: middle;><a href="http://www.hill-bagging.co.uk/mountaindetails.php?qu=S&rf=2478">Hill Bagging</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Xcoord:-</td><td style=text-align: left; vertical-align: middle;>328914</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Ycoord:-</td><td style=text-align: left; vertical-align: middle;>516511</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Latitude:-</td><td style=text-align: left; vertical-align: middle;>54.53886</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Longitude:-</td><td style=text-align: left; vertical-align: middle;>-3.100209</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>GridrefXY:-</td><td style=text-align: left; vertical-align: middle;>NY2891416511</td></tr>
+</table>
+</body>
+</html>
+
+<h4>copyright note</h4>
+<img src="https://i.creativecommons.org/l/by/4.0/88x31.png" align="left" hspace="5" vspace="0"></a>
+Data derived from the <a href="http://www.hills-database.co.uk/downloads.html#copyright">Database of British and Irish Hills - v17.3</a>
+licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Licence</a>
+]]>
+<!--Block5-->
+</mwm:lang>
+</mwm:description>
+<mwm:customName>
+<mwm:lang code="default">High Tove</mwm:lang>
+</mwm:customName>
+<mwm:visibility>1</mwm:visibility>
+</ExtendedData>
+</Placemark>
+
+<!--Block2--> 
+<Placemark>
+<name>Armboth Fell</name>
+<description></description>
+<styleUrl>#placemark-blue</styleUrl>
+<Point>
+<coordinates>-3.089686,54.532026</coordinates>
+</Point>
+<!--Block3--> 
+<ExtendedData xmlns:mwm="https://omaps.app">
+<mwm:name>
+<mwm:lang code="default">Armboth Fell</mwm:lang>
+</mwm:name>
+<mwm:description>
+<mwm:lang code="default">
+<!--Block4-->
+<![CDATA[
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<br>
+<table style="width:100%">
+<tr><td style=text-align: left; vertical-align: middle;><b>Information</b><td style=text-align: left; vertical-align: middle;><b>Hills Database v17.3</b></td></tr><td style=text-align: left; vertical-align: middle;>Number:-<td style=text-align: left; vertical-align: middle;>2483</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Name:-</td><td style=text-align: left; vertical-align: middle;>Armboth Fell</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent name (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Section:-</td><td style=text-align: left; vertical-align: middle;>34B</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Region:-</td><td style=text-align: left; vertical-align: middle;>34B: Lake District C&W</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Area:-</td><td style=text-align: left; vertical-align: middle;>Lake District - Central Fells</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Island:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Topo Section:-</td><td style=text-align: left; vertical-align: middle;>Q03:Keswick to Duddon Sands</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County:-</td><td style=text-align: left; vertical-align: middle;>Cumbria</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Classification:-</td><td style=text-align: left; vertical-align: middle;>W</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:50k:-</td><td style=text-align: left; vertical-align: middle;>89 90</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:25k:-</td><td style=text-align: left; vertical-align: middle;>OL4S</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Metres:-</td><td style=text-align: left; vertical-align: middle;>475</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feet:-</td><td style=text-align: left; vertical-align: middle;>1558</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY295157</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref 10:-</td><td style=text-align: left; vertical-align: middle;>NY 29584 15739</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Drop:-</td><td style=text-align: left; vertical-align: middle;>6</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY291158</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col height:-</td><td style=text-align: left; vertical-align: middle;>469</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feature:-</td><td style=text-align: left; vertical-align: middle;>rocky mound</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Observations:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Survey:-</td><td style=text-align: left; vertical-align: middle;>obvious summit</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Climbed:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Country:-</td><td style=text-align: left; vertical-align: middle;>E</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County Top:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Revision:-</td><td style=text-align: left; vertical-align: middle;>16/06/2011</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Street Map</td><td style=text-align: left; vertical-align: middle;><a href="http://www.streetmap.co.uk/map?X=329583&Y=515740&SV=329583,515740&A=Y&Z=115">Street Map</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Geograph</td><td style=text-align: left; vertical-align: middle;><a href="http://www.geograph.org.uk/gridref/NY2958315740">Geograph</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Hill Bagging</td><td style=text-align: left; vertical-align: middle;><a href="http://www.hill-bagging.co.uk/mountaindetails.php?qu=S&rf=2483">Hill Bagging</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Xcoord:-</td><td style=text-align: left; vertical-align: middle;>329583</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Ycoord:-</td><td style=text-align: left; vertical-align: middle;>515740</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Latitude:-</td><td style=text-align: left; vertical-align: middle;>54.532026</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Longitude:-</td><td style=text-align: left; vertical-align: middle;>-3.089686</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>GridrefXY:-</td><td style=text-align: left; vertical-align: middle;>NY2958315740</td></tr>
+</table>
+</body>
+</html>
+
+<h4>copyright note</h4>
+<img src="https://i.creativecommons.org/l/by/4.0/88x31.png" align="left" hspace="5" vspace="0"></a>
+Data derived from the <a href="http://www.hills-database.co.uk/downloads.html#copyright">Database of British and Irish Hills - v17.3</a>
+licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Licence</a>
+]]>
+<!--Block5-->
+</mwm:lang>
+</mwm:description>
+<mwm:customName>
+<mwm:lang code="default">Armboth Fell</mwm:lang>
+</mwm:customName>
+<mwm:visibility>1</mwm:visibility>
+</ExtendedData>
+</Placemark>
+
+<!--Block2--> 
+<Placemark>
+<name>Raven Crag</name>
+<description></description>
+<styleUrl>#placemark-blue</styleUrl>
+<Point>
+<coordinates>-3.07872,54.559231</coordinates>
+</Point>
+<!--Block3--> 
+<ExtendedData xmlns:mwm="https://omaps.app">
+<mwm:name>
+<mwm:lang code="default">Raven Crag</mwm:lang>
+</mwm:name>
+<mwm:description>
+<mwm:lang code="default">
+<!--Block4-->
+<![CDATA[
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<br>
+<table style="width:100%">
+<tr><td style=text-align: left; vertical-align: middle;><b>Information</b><td style=text-align: left; vertical-align: middle;><b>Hills Database v17.3</b></td></tr><td style=text-align: left; vertical-align: middle;>Number:-<td style=text-align: left; vertical-align: middle;>2487</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Name:-</td><td style=text-align: left; vertical-align: middle;>Raven Crag</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent name (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Section:-</td><td style=text-align: left; vertical-align: middle;>34B</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Region:-</td><td style=text-align: left; vertical-align: middle;>34B: Lake District C&W</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Area:-</td><td style=text-align: left; vertical-align: middle;>Lake District - Central Fells</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Island:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Topo Section:-</td><td style=text-align: left; vertical-align: middle;>Q03:Keswick to Duddon Sands</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County:-</td><td style=text-align: left; vertical-align: middle;>Cumbria</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Classification:-</td><td style=text-align: left; vertical-align: middle;>4,W,B,Sy,Fel</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:50k:-</td><td style=text-align: left; vertical-align: middle;>90</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:25k:-</td><td style=text-align: left; vertical-align: middle;>OL4S OL5S</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Metres:-</td><td style=text-align: left; vertical-align: middle;>461</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feet:-</td><td style=text-align: left; vertical-align: middle;>1512</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY303187</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref 10:-</td><td style=text-align: left; vertical-align: middle;>NY 30340 18755</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Drop:-</td><td style=text-align: left; vertical-align: middle;>44</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY300182</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col height:-</td><td style=text-align: left; vertical-align: middle;>417</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feature:-</td><td style=text-align: left; vertical-align: middle;>cairn on rock</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Observations:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Survey:-</td><td style=text-align: left; vertical-align: middle;>Abney level</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Climbed:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Country:-</td><td style=text-align: left; vertical-align: middle;>E</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County Top:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Revision:-</td><td style=text-align: left; vertical-align: middle;>23/08/2010</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Street Map</td><td style=text-align: left; vertical-align: middle;><a href="http://www.streetmap.co.uk/map?X=330339&Y=518756&SV=330339,518756&A=Y&Z=115">Street Map</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Geograph</td><td style=text-align: left; vertical-align: middle;><a href="http://www.geograph.org.uk/gridref/NY3033918756">Geograph</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Hill Bagging</td><td style=text-align: left; vertical-align: middle;><a href="http://www.hill-bagging.co.uk/mountaindetails.php?qu=S&rf=2487">Hill Bagging</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Xcoord:-</td><td style=text-align: left; vertical-align: middle;>330339</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Ycoord:-</td><td style=text-align: left; vertical-align: middle;>518756</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Latitude:-</td><td style=text-align: left; vertical-align: middle;>54.559231</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Longitude:-</td><td style=text-align: left; vertical-align: middle;>-3.07872</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>GridrefXY:-</td><td style=text-align: left; vertical-align: middle;>NY3033918756</td></tr>
+</table>
+</body>
+</html>
+
+<h4>copyright note</h4>
+<img src="https://i.creativecommons.org/l/by/4.0/88x31.png" align="left" hspace="5" vspace="0"></a>
+Data derived from the <a href="http://www.hills-database.co.uk/downloads.html#copyright">Database of British and Irish Hills - v17.3</a>
+licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Licence</a>
+]]>
+<!--Block5-->
+</mwm:lang>
+</mwm:description>
+<mwm:customName>
+<mwm:lang code="default">Raven Crag</mwm:lang>
+</mwm:customName>
+<mwm:visibility>1</mwm:visibility>
+</ExtendedData>
+</Placemark>
+
+<!--Block2--> 
+<Placemark>
+<name>Great Crag (Stonethwaite)</name>
+<description></description>
+<styleUrl>#placemark-blue</styleUrl>
+<Point>
+<coordinates>-3.129333,54.522189</coordinates>
+</Point>
+<!--Block3--> 
+<ExtendedData xmlns:mwm="https://omaps.app">
+<mwm:name>
+<mwm:lang code="default">Great Crag (Stonethwaite)</mwm:lang>
+</mwm:name>
+<mwm:description>
+<mwm:lang code="default">
+<!--Block4-->
+<![CDATA[
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<br>
+<table style="width:100%">
+<tr><td style=text-align: left; vertical-align: middle;><b>Information</b><td style=text-align: left; vertical-align: middle;><b>Hills Database v17.3</b></td></tr><td style=text-align: left; vertical-align: middle;>Number:-<td style=text-align: left; vertical-align: middle;>2491</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Name:-</td><td style=text-align: left; vertical-align: middle;>Great Crag (Stonethwaite)</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent name (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Section:-</td><td style=text-align: left; vertical-align: middle;>34B</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Region:-</td><td style=text-align: left; vertical-align: middle;>34B: Lake District C&W</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Area:-</td><td style=text-align: left; vertical-align: middle;>Lake District - Central Fells</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Island:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Topo Section:-</td><td style=text-align: left; vertical-align: middle;>Q03:Keswick to Duddon Sands</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County:-</td><td style=text-align: left; vertical-align: middle;>Cumbria</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Classification:-</td><td style=text-align: left; vertical-align: middle;>4,W,B,Sy,Fel</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:50k:-</td><td style=text-align: left; vertical-align: middle;>89 90</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:25k:-</td><td style=text-align: left; vertical-align: middle;>OL4S</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Metres:-</td><td style=text-align: left; vertical-align: middle;>449</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feet:-</td><td style=text-align: left; vertical-align: middle;>1473</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY270146</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref 10:-</td><td style=text-align: left; vertical-align: middle;>NY 27001 14685</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Drop:-</td><td style=text-align: left; vertical-align: middle;>32</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY272147</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col height:-</td><td style=text-align: left; vertical-align: middle;>417</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feature:-</td><td style=text-align: left; vertical-align: middle;>cairn</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Observations:-</td><td style=text-align: left; vertical-align: middle;>this is S top (Wainwright summit); top (two cairns) 80m N (Birkett) at NY 26998 14765 is 50cm lower</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Survey:-</td><td style=text-align: left; vertical-align: middle;>Abney level</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Climbed:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Country:-</td><td style=text-align: left; vertical-align: middle;>E</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County Top:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Revision:-</td><td style=text-align: left; vertical-align: middle;>17/10/2011</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Street Map</td><td style=text-align: left; vertical-align: middle;><a href="http://www.streetmap.co.uk/map?X=327000&Y=514686&SV=327000,514686&A=Y&Z=115">Street Map</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Geograph</td><td style=text-align: left; vertical-align: middle;><a href="http://www.geograph.org.uk/gridref/NY2700014686">Geograph</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Hill Bagging</td><td style=text-align: left; vertical-align: middle;><a href="http://www.hill-bagging.co.uk/mountaindetails.php?qu=S&rf=2491">Hill Bagging</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Xcoord:-</td><td style=text-align: left; vertical-align: middle;>327000</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Ycoord:-</td><td style=text-align: left; vertical-align: middle;>514686</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Latitude:-</td><td style=text-align: left; vertical-align: middle;>54.522189</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Longitude:-</td><td style=text-align: left; vertical-align: middle;>-3.129333</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>GridrefXY:-</td><td style=text-align: left; vertical-align: middle;>NY2700014686</td></tr>
+</table>
+</body>
+</html>
+
+<h4>copyright note</h4>
+<img src="https://i.creativecommons.org/l/by/4.0/88x31.png" align="left" hspace="5" vspace="0"></a>
+Data derived from the <a href="http://www.hills-database.co.uk/downloads.html#copyright">Database of British and Irish Hills - v17.3</a>
+licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Licence</a>
+]]>
+<!--Block5-->
+</mwm:lang>
+</mwm:description>
+<mwm:customName>
+<mwm:lang code="default">Great Crag (Stonethwaite)</mwm:lang>
+</mwm:customName>
+<mwm:visibility>1</mwm:visibility>
+</ExtendedData>
+</Placemark>
+
+<!--Block2--> 
+<Placemark>
+<name>Gibson Knott</name>
+<description></description>
+<styleUrl>#placemark-blue</styleUrl>
+<Point>
+<coordinates>-3.055825,54.48107</coordinates>
+</Point>
+<!--Block3--> 
+<ExtendedData xmlns:mwm="https://omaps.app">
+<mwm:name>
+<mwm:lang code="default">Gibson Knott</mwm:lang>
+</mwm:name>
+<mwm:description>
+<mwm:lang code="default">
+<!--Block4-->
+<![CDATA[
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<br>
+<table style="width:100%">
+<tr><td style=text-align: left; vertical-align: middle;><b>Information</b><td style=text-align: left; vertical-align: middle;><b>Hills Database v17.3</b></td></tr><td style=text-align: left; vertical-align: middle;>Number:-<td style=text-align: left; vertical-align: middle;>2494</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Name:-</td><td style=text-align: left; vertical-align: middle;>Gibson Knott</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent name (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Section:-</td><td style=text-align: left; vertical-align: middle;>34B</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Region:-</td><td style=text-align: left; vertical-align: middle;>34B: Lake District C&W</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Area:-</td><td style=text-align: left; vertical-align: middle;>Lake District - Central Fells</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Island:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Topo Section:-</td><td style=text-align: left; vertical-align: middle;>Q03:Keswick to Duddon Sands</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County:-</td><td style=text-align: left; vertical-align: middle;>Cumbria</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Classification:-</td><td style=text-align: left; vertical-align: middle;>W,B,Sy,Fel</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:50k:-</td><td style=text-align: left; vertical-align: middle;>90</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:25k:-</td><td style=text-align: left; vertical-align: middle;>OL5S OL7N</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Metres:-</td><td style=text-align: left; vertical-align: middle;>420.1</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feet:-</td><td style=text-align: left; vertical-align: middle;>1378</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY316100</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref 10:-</td><td style=text-align: left; vertical-align: middle;>NY 31690 10036</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Drop:-</td><td style=text-align: left; vertical-align: middle;>8.8</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY 3163 1004</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col height:-</td><td style=text-align: left; vertical-align: middle;>411.3</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feature:-</td><td style=text-align: left; vertical-align: middle;>cairn on rocky outcrop</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Observations:-</td><td style=text-align: left; vertical-align: middle;>Fellranger summit is the cairn 200m SE at NY 31853 09923 and is 2m higher</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Survey:-</td><td style=text-align: left; vertical-align: middle;>Abney level</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Climbed:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Country:-</td><td style=text-align: left; vertical-align: middle;>E</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County Top:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Revision:-</td><td style=text-align: left; vertical-align: middle;>29/11/2020</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Street Map</td><td style=text-align: left; vertical-align: middle;><a href="http://www.streetmap.co.uk/map?X=331689&Y=510037&SV=331689,510037&A=Y&Z=115">Street Map</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Geograph</td><td style=text-align: left; vertical-align: middle;><a href="http://www.geograph.org.uk/gridref/NY3168910037">Geograph</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Hill Bagging</td><td style=text-align: left; vertical-align: middle;><a href="http://www.hill-bagging.co.uk/mountaindetails.php?qu=S&rf=2494">Hill Bagging</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Xcoord:-</td><td style=text-align: left; vertical-align: middle;>331689</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Ycoord:-</td><td style=text-align: left; vertical-align: middle;>510037</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Latitude:-</td><td style=text-align: left; vertical-align: middle;>54.48107</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Longitude:-</td><td style=text-align: left; vertical-align: middle;>-3.055825</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>GridrefXY:-</td><td style=text-align: left; vertical-align: middle;>NY3168910037</td></tr>
+</table>
+</body>
+</html>
+
+<h4>copyright note</h4>
+<img src="https://i.creativecommons.org/l/by/4.0/88x31.png" align="left" hspace="5" vspace="0"></a>
+Data derived from the <a href="http://www.hills-database.co.uk/downloads.html#copyright">Database of British and Irish Hills - v17.3</a>
+licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Licence</a>
+]]>
+<!--Block5-->
+</mwm:lang>
+</mwm:description>
+<mwm:customName>
+<mwm:lang code="default">Gibson Knott</mwm:lang>
+</mwm:customName>
+<mwm:visibility>1</mwm:visibility>
+</ExtendedData>
+</Placemark>
+
+<!--Block2--> 
+<Placemark>
+<name>Grange Fell [Brund Fell]</name>
+<description></description>
+<styleUrl>#placemark-blue</styleUrl>
+<Point>
+<coordinates>-3.137963,54.536408</coordinates>
+</Point>
+<!--Block3--> 
+<ExtendedData xmlns:mwm="https://omaps.app">
+<mwm:name>
+<mwm:lang code="default">Grange Fell [Brund Fell]</mwm:lang>
+</mwm:name>
+<mwm:description>
+<mwm:lang code="default">
+<!--Block4-->
+<![CDATA[
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<br>
+<table style="width:100%">
+<tr><td style=text-align: left; vertical-align: middle;><b>Information</b><td style=text-align: left; vertical-align: middle;><b>Hills Database v17.3</b></td></tr><td style=text-align: left; vertical-align: middle;>Number:-<td style=text-align: left; vertical-align: middle;>2496</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Name:-</td><td style=text-align: left; vertical-align: middle;>Grange Fell [Brund Fell]</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent name (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Section:-</td><td style=text-align: left; vertical-align: middle;>34B</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Region:-</td><td style=text-align: left; vertical-align: middle;>34B: Lake District C&W</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Area:-</td><td style=text-align: left; vertical-align: middle;>Lake District - Central Fells</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Island:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Topo Section:-</td><td style=text-align: left; vertical-align: middle;>Q03:Keswick to Duddon Sands</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County:-</td><td style=text-align: left; vertical-align: middle;>Cumbria</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Classification:-</td><td style=text-align: left; vertical-align: middle;>4,W,B,Sy,Fel</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:50k:-</td><td style=text-align: left; vertical-align: middle;>89 90</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:25k:-</td><td style=text-align: left; vertical-align: middle;>OL4S</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Metres:-</td><td style=text-align: left; vertical-align: middle;>417.2</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feet:-</td><td style=text-align: left; vertical-align: middle;>1369</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY264162</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref 10:-</td><td style=text-align: left; vertical-align: middle;>NY 26468 16276</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Drop:-</td><td style=text-align: left; vertical-align: middle;>42.2</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY 2677 1707</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col height:-</td><td style=text-align: left; vertical-align: middle;>375</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feature:-</td><td style=text-align: left; vertical-align: middle;>cairn on rock tor</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Observations:-</td><td style=text-align: left; vertical-align: middle;>Wainwright's rock tor 70m SW at NY 26412 16240 is 1m - 2m lower</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Survey:-</td><td style=text-align: left; vertical-align: middle;>Abney level</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Climbed:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Country:-</td><td style=text-align: left; vertical-align: middle;>E</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County Top:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Revision:-</td><td style=text-align: left; vertical-align: middle;>01/10/2018</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Street Map</td><td style=text-align: left; vertical-align: middle;><a href="http://www.streetmap.co.uk/map?X=326467&Y=516277&SV=326467,516277&A=Y&Z=115">Street Map</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Geograph</td><td style=text-align: left; vertical-align: middle;><a href="http://www.geograph.org.uk/gridref/NY2646716277">Geograph</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Hill Bagging</td><td style=text-align: left; vertical-align: middle;><a href="http://www.hill-bagging.co.uk/mountaindetails.php?qu=S&rf=2496">Hill Bagging</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Xcoord:-</td><td style=text-align: left; vertical-align: middle;>326467</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Ycoord:-</td><td style=text-align: left; vertical-align: middle;>516277</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Latitude:-</td><td style=text-align: left; vertical-align: middle;>54.536408</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Longitude:-</td><td style=text-align: left; vertical-align: middle;>-3.137963</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>GridrefXY:-</td><td style=text-align: left; vertical-align: middle;>NY2646716277</td></tr>
+</table>
+</body>
+</html>
+
+<h4>copyright note</h4>
+<img src="https://i.creativecommons.org/l/by/4.0/88x31.png" align="left" hspace="5" vspace="0"></a>
+Data derived from the <a href="http://www.hills-database.co.uk/downloads.html#copyright">Database of British and Irish Hills - v17.3</a>
+licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Licence</a>
+]]>
+<!--Block5-->
+</mwm:lang>
+</mwm:description>
+<mwm:customName>
+<mwm:lang code="default">Grange Fell [Brund Fell]</mwm:lang>
+</mwm:customName>
+<mwm:visibility>1</mwm:visibility>
+</ExtendedData>
+</Placemark>
+
+<!--Block2--> 
+<Placemark>
+<name>Helm Crag</name>
+<description></description>
+<styleUrl>#placemark-blue</styleUrl>
+<Point>
+<coordinates>-3.040823,54.475026</coordinates>
+</Point>
+<!--Block3--> 
+<ExtendedData xmlns:mwm="https://omaps.app">
+<mwm:name>
+<mwm:lang code="default">Helm Crag</mwm:lang>
+</mwm:name>
+<mwm:description>
+<mwm:lang code="default">
+<!--Block4-->
+<![CDATA[
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<br>
+<table style="width:100%">
+<tr><td style=text-align: left; vertical-align: middle;><b>Information</b><td style=text-align: left; vertical-align: middle;><b>Hills Database v17.3</b></td></tr><td style=text-align: left; vertical-align: middle;>Number:-<td style=text-align: left; vertical-align: middle;>2498</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Name:-</td><td style=text-align: left; vertical-align: middle;>Helm Crag</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent name (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Section:-</td><td style=text-align: left; vertical-align: middle;>34B</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Region:-</td><td style=text-align: left; vertical-align: middle;>34B: Lake District C&W</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Area:-</td><td style=text-align: left; vertical-align: middle;>Lake District - Central Fells</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Island:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Topo Section:-</td><td style=text-align: left; vertical-align: middle;>Q03:Keswick to Duddon Sands</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County:-</td><td style=text-align: left; vertical-align: middle;>Cumbria</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Classification:-</td><td style=text-align: left; vertical-align: middle;>4,W,B,Sy,Fel</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:50k:-</td><td style=text-align: left; vertical-align: middle;>90</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:25k:-</td><td style=text-align: left; vertical-align: middle;>OL5S OL7N</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Metres:-</td><td style=text-align: left; vertical-align: middle;>405</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feet:-</td><td style=text-align: left; vertical-align: middle;>1329</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY326093</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref 10:-</td><td style=text-align: left; vertical-align: middle;>NY 32652 09349</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Drop:-</td><td style=text-align: left; vertical-align: middle;>70</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY324095</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col height:-</td><td style=text-align: left; vertical-align: middle;>335</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feature:-</td><td style=text-align: left; vertical-align: middle;>rock tor known as 'Howitzer'</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Observations:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Survey:-</td><td style=text-align: left; vertical-align: middle;>obvious summit</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Climbed:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Country:-</td><td style=text-align: left; vertical-align: middle;>E</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County Top:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Revision:-</td><td style=text-align: left; vertical-align: middle;>28/03/2010</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Street Map</td><td style=text-align: left; vertical-align: middle;><a href="http://www.streetmap.co.uk/map?X=332651&Y=509350&SV=332651,509350&A=Y&Z=115">Street Map</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Geograph</td><td style=text-align: left; vertical-align: middle;><a href="http://www.geograph.org.uk/gridref/NY3265109350">Geograph</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Hill Bagging</td><td style=text-align: left; vertical-align: middle;><a href="http://www.hill-bagging.co.uk/mountaindetails.php?qu=S&rf=2498">Hill Bagging</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Xcoord:-</td><td style=text-align: left; vertical-align: middle;>332651</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Ycoord:-</td><td style=text-align: left; vertical-align: middle;>509350</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Latitude:-</td><td style=text-align: left; vertical-align: middle;>54.475026</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Longitude:-</td><td style=text-align: left; vertical-align: middle;>-3.040823</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>GridrefXY:-</td><td style=text-align: left; vertical-align: middle;>NY3265109350</td></tr>
+</table>
+</body>
+</html>
+
+<h4>copyright note</h4>
+<img src="https://i.creativecommons.org/l/by/4.0/88x31.png" align="left" hspace="5" vspace="0"></a>
+Data derived from the <a href="http://www.hills-database.co.uk/downloads.html#copyright">Database of British and Irish Hills - v17.3</a>
+licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Licence</a>
+]]>
+<!--Block5-->
+</mwm:lang>
+</mwm:description>
+<mwm:customName>
+<mwm:lang code="default">Helm Crag</mwm:lang>
+</mwm:customName>
+<mwm:visibility>1</mwm:visibility>
+</ExtendedData>
+</Placemark>
+
+<!--Block2--> 
+<Placemark>
+<name>Silver How</name>
+<description></description>
+<styleUrl>#placemark-blue</styleUrl>
+<Point>
+<coordinates>-3.04289,54.450696</coordinates>
+</Point>
+<!--Block3--> 
+<ExtendedData xmlns:mwm="https://omaps.app">
+<mwm:name>
+<mwm:lang code="default">Silver How</mwm:lang>
+</mwm:name>
+<mwm:description>
+<mwm:lang code="default">
+<!--Block4-->
+<![CDATA[
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<br>
+<table style="width:100%">
+<tr><td style=text-align: left; vertical-align: middle;><b>Information</b><td style=text-align: left; vertical-align: middle;><b>Hills Database v17.3</b></td></tr><td style=text-align: left; vertical-align: middle;>Number:-<td style=text-align: left; vertical-align: middle;>2499</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Name:-</td><td style=text-align: left; vertical-align: middle;>Silver How</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent name (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Section:-</td><td style=text-align: left; vertical-align: middle;>34B</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Region:-</td><td style=text-align: left; vertical-align: middle;>34B: Lake District C&W</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Area:-</td><td style=text-align: left; vertical-align: middle;>Lake District - Central Fells</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Island:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Topo Section:-</td><td style=text-align: left; vertical-align: middle;>Q03:Keswick to Duddon Sands</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County:-</td><td style=text-align: left; vertical-align: middle;>Cumbria</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Classification:-</td><td style=text-align: left; vertical-align: middle;>3,W,B,Sy,Fel</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:50k:-</td><td style=text-align: left; vertical-align: middle;>90</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:25k:-</td><td style=text-align: left; vertical-align: middle;>OL7N</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Metres:-</td><td style=text-align: left; vertical-align: middle;>395</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feet:-</td><td style=text-align: left; vertical-align: middle;>1296</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY324066</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref 10:-</td><td style=text-align: left; vertical-align: middle;>NY 32478 06644</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Drop:-</td><td style=text-align: left; vertical-align: middle;>31</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY321065</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col height:-</td><td style=text-align: left; vertical-align: middle;>364</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feature:-</td><td style=text-align: left; vertical-align: middle;>cairn</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Observations:-</td><td style=text-align: left; vertical-align: middle;>other knolls in vicinity are lower</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Survey:-</td><td style=text-align: left; vertical-align: middle;>Abney level</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Climbed:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Country:-</td><td style=text-align: left; vertical-align: middle;>E</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County Top:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Revision:-</td><td style=text-align: left; vertical-align: middle;>15/05/2018</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Street Map</td><td style=text-align: left; vertical-align: middle;><a href="http://www.streetmap.co.uk/map?X=332477&Y=506645&SV=332477,506645&A=Y&Z=115">Street Map</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Geograph</td><td style=text-align: left; vertical-align: middle;><a href="http://www.geograph.org.uk/gridref/NY3247706645">Geograph</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Hill Bagging</td><td style=text-align: left; vertical-align: middle;><a href="http://www.hill-bagging.co.uk/mountaindetails.php?qu=S&rf=2499">Hill Bagging</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Xcoord:-</td><td style=text-align: left; vertical-align: middle;>332477</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Ycoord:-</td><td style=text-align: left; vertical-align: middle;>506645</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Latitude:-</td><td style=text-align: left; vertical-align: middle;>54.450696</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Longitude:-</td><td style=text-align: left; vertical-align: middle;>-3.04289</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>GridrefXY:-</td><td style=text-align: left; vertical-align: middle;>NY3247706645</td></tr>
+</table>
+</body>
+</html>
+
+<h4>copyright note</h4>
+<img src="https://i.creativecommons.org/l/by/4.0/88x31.png" align="left" hspace="5" vspace="0"></a>
+Data derived from the <a href="http://www.hills-database.co.uk/downloads.html#copyright">Database of British and Irish Hills - v17.3</a>
+licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Licence</a>
+]]>
+<!--Block5-->
+</mwm:lang>
+</mwm:description>
+<mwm:customName>
+<mwm:lang code="default">Silver How</mwm:lang>
+</mwm:customName>
+<mwm:visibility>1</mwm:visibility>
+</ExtendedData>
+</Placemark>
+
+<!--Block2--> 
+<Placemark>
+<name>Walla Crag</name>
+<description></description>
+<styleUrl>#placemark-blue</styleUrl>
+<Point>
+<coordinates>-3.120377,54.581608</coordinates>
+</Point>
+<!--Block3--> 
+<ExtendedData xmlns:mwm="https://omaps.app">
+<mwm:name>
+<mwm:lang code="default">Walla Crag</mwm:lang>
+</mwm:name>
+<mwm:description>
+<mwm:lang code="default">
+<!--Block4-->
+<![CDATA[
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<br>
+<table style="width:100%">
+<tr><td style=text-align: left; vertical-align: middle;><b>Information</b><td style=text-align: left; vertical-align: middle;><b>Hills Database v17.3</b></td></tr><td style=text-align: left; vertical-align: middle;>Number:-<td style=text-align: left; vertical-align: middle;>2500</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Name:-</td><td style=text-align: left; vertical-align: middle;>Walla Crag</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent name (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Section:-</td><td style=text-align: left; vertical-align: middle;>34B</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Region:-</td><td style=text-align: left; vertical-align: middle;>34B: Lake District C&W</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Area:-</td><td style=text-align: left; vertical-align: middle;>Lake District - Central Fells</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Island:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Topo Section:-</td><td style=text-align: left; vertical-align: middle;>Q03:Keswick to Duddon Sands</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County:-</td><td style=text-align: left; vertical-align: middle;>Cumbria</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Classification:-</td><td style=text-align: left; vertical-align: middle;>W,B,Sy,Fel</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:50k:-</td><td style=text-align: left; vertical-align: middle;>89 90</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:25k:-</td><td style=text-align: left; vertical-align: middle;>OL4S</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Metres:-</td><td style=text-align: left; vertical-align: middle;>379</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feet:-</td><td style=text-align: left; vertical-align: middle;>1243</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY276212</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref 10:-</td><td style=text-align: left; vertical-align: middle;>NY 27686 21287</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Drop:-</td><td style=text-align: left; vertical-align: middle;>24</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY279209</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col height:-</td><td style=text-align: left; vertical-align: middle;>355</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feature:-</td><td style=text-align: left; vertical-align: middle;>rock by cairn</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Observations:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Survey:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Climbed:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Country:-</td><td style=text-align: left; vertical-align: middle;>E</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County Top:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Revision:-</td><td style=text-align: left; vertical-align: middle;>15/08/2012</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Street Map</td><td style=text-align: left; vertical-align: middle;><a href="http://www.streetmap.co.uk/map?X=327685&Y=521288&SV=327685,521288&A=Y&Z=115">Street Map</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Geograph</td><td style=text-align: left; vertical-align: middle;><a href="http://www.geograph.org.uk/gridref/NY2768521288">Geograph</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Hill Bagging</td><td style=text-align: left; vertical-align: middle;><a href="http://www.hill-bagging.co.uk/mountaindetails.php?qu=S&rf=2500">Hill Bagging</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Xcoord:-</td><td style=text-align: left; vertical-align: middle;>327685</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Ycoord:-</td><td style=text-align: left; vertical-align: middle;>521288</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Latitude:-</td><td style=text-align: left; vertical-align: middle;>54.581608</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Longitude:-</td><td style=text-align: left; vertical-align: middle;>-3.120377</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>GridrefXY:-</td><td style=text-align: left; vertical-align: middle;>NY2768521288</td></tr>
+</table>
+</body>
+</html>
+
+<h4>copyright note</h4>
+<img src="https://i.creativecommons.org/l/by/4.0/88x31.png" align="left" hspace="5" vspace="0"></a>
+Data derived from the <a href="http://www.hills-database.co.uk/downloads.html#copyright">Database of British and Irish Hills - v17.3</a>
+licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Licence</a>
+]]>
+<!--Block5-->
+</mwm:lang>
+</mwm:description>
+<mwm:customName>
+<mwm:lang code="default">Walla Crag</mwm:lang>
+</mwm:customName>
+<mwm:visibility>1</mwm:visibility>
+</ExtendedData>
+</Placemark>
+
+<!--Block2--> 
+<Placemark>
+<name>Loughrigg Fell</name>
+<description></description>
+<styleUrl>#placemark-blue</styleUrl>
+<Point>
+<coordinates>-3.008355,54.437454</coordinates>
+</Point>
+<!--Block3--> 
+<ExtendedData xmlns:mwm="https://omaps.app">
+<mwm:name>
+<mwm:lang code="default">Loughrigg Fell</mwm:lang>
+</mwm:name>
+<mwm:description>
+<mwm:lang code="default">
+<!--Block4-->
+<![CDATA[
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<br>
+<table style="width:100%">
+<tr><td style=text-align: left; vertical-align: middle;><b>Information</b><td style=text-align: left; vertical-align: middle;><b>Hills Database v17.3</b></td></tr><td style=text-align: left; vertical-align: middle;>Number:-<td style=text-align: left; vertical-align: middle;>2507</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Name:-</td><td style=text-align: left; vertical-align: middle;>Loughrigg Fell</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent name (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Section:-</td><td style=text-align: left; vertical-align: middle;>34B</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Region:-</td><td style=text-align: left; vertical-align: middle;>34B: Lake District C&W</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Area:-</td><td style=text-align: left; vertical-align: middle;>Lake District - Central Fells</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Island:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Topo Section:-</td><td style=text-align: left; vertical-align: middle;>Q03:Keswick to Duddon Sands</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County:-</td><td style=text-align: left; vertical-align: middle;>Cumbria</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Classification:-</td><td style=text-align: left; vertical-align: middle;>Ma,3,W,B,Sy,Fel</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:50k:-</td><td style=text-align: left; vertical-align: middle;>90</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:25k:-</td><td style=text-align: left; vertical-align: middle;>OL7N</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Metres:-</td><td style=text-align: left; vertical-align: middle;>335</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feet:-</td><td style=text-align: left; vertical-align: middle;>1099</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY346051</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref 10:-</td><td style=text-align: left; vertical-align: middle;>NY 34696 05138</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Drop:-</td><td style=text-align: left; vertical-align: middle;>172</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY340055</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col height:-</td><td style=text-align: left; vertical-align: middle;>163</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feature:-</td><td style=text-align: left; vertical-align: middle;>outcrop 3m SW of trig point</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Observations:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Survey:-</td><td style=text-align: left; vertical-align: middle;>Abney level</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Climbed:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Country:-</td><td style=text-align: left; vertical-align: middle;>E</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County Top:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Revision:-</td><td style=text-align: left; vertical-align: middle;>05/01/2020</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Street Map</td><td style=text-align: left; vertical-align: middle;><a href="http://www.streetmap.co.uk/map?X=334695&Y=505139&SV=334695,505139&A=Y&Z=115">Street Map</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Geograph</td><td style=text-align: left; vertical-align: middle;><a href="http://www.geograph.org.uk/gridref/NY3469505139">Geograph</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Hill Bagging</td><td style=text-align: left; vertical-align: middle;><a href="http://www.hill-bagging.co.uk/mountaindetails.php?qu=S&rf=2507">Hill Bagging</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Xcoord:-</td><td style=text-align: left; vertical-align: middle;>334695</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Ycoord:-</td><td style=text-align: left; vertical-align: middle;>505139</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Latitude:-</td><td style=text-align: left; vertical-align: middle;>54.437454</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Longitude:-</td><td style=text-align: left; vertical-align: middle;>-3.008355</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>GridrefXY:-</td><td style=text-align: left; vertical-align: middle;>NY3469505139</td></tr>
+</table>
+</body>
+</html>
+
+<h4>copyright note</h4>
+<img src="https://i.creativecommons.org/l/by/4.0/88x31.png" align="left" hspace="5" vspace="0"></a>
+Data derived from the <a href="http://www.hills-database.co.uk/downloads.html#copyright">Database of British and Irish Hills - v17.3</a>
+licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Licence</a>
+]]>
+<!--Block5-->
+</mwm:lang>
+</mwm:description>
+<mwm:customName>
+<mwm:lang code="default">Loughrigg Fell</mwm:lang>
+</mwm:customName>
+<mwm:visibility>1</mwm:visibility>
+</ExtendedData>
+</Placemark>
+
+<!--Block2--> 
+<Placemark>
+<name>High Rigg [Naddle Fell]</name>
+<description></description>
+<styleUrl>#placemark-blue</styleUrl>
+<Point>
+<coordinates>-3.071568,54.588432</coordinates>
+</Point>
+<!--Block3--> 
+<ExtendedData xmlns:mwm="https://omaps.app">
+<mwm:name>
+<mwm:lang code="default">High Rigg [Naddle Fell]</mwm:lang>
+</mwm:name>
+<mwm:description>
+<mwm:lang code="default">
+<!--Block4-->
+<![CDATA[
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<br>
+<table style="width:100%">
+<tr><td style=text-align: left; vertical-align: middle;><b>Information</b><td style=text-align: left; vertical-align: middle;><b>Hills Database v17.3</b></td></tr><td style=text-align: left; vertical-align: middle;>Number:-<td style=text-align: left; vertical-align: middle;>2627</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Name:-</td><td style=text-align: left; vertical-align: middle;>High Rigg [Naddle Fell]</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Parent name (SMC):-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Section:-</td><td style=text-align: left; vertical-align: middle;>34C</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Region:-</td><td style=text-align: left; vertical-align: middle;>34C: Lake District E</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Area:-</td><td style=text-align: left; vertical-align: middle;>Lake District - Central Fells</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Island:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Topo Section:-</td><td style=text-align: left; vertical-align: middle;>Q03:Keswick to Duddon Sands</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County:-</td><td style=text-align: left; vertical-align: middle;>Cumbria</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Classification:-</td><td style=text-align: left; vertical-align: middle;>Ma,3,W,B,Sy,Fel</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:50k:-</td><td style=text-align: left; vertical-align: middle;>90</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Map 1:25k:-</td><td style=text-align: left; vertical-align: middle;>OL4S OL5S</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Metres:-</td><td style=text-align: left; vertical-align: middle;>355</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feet:-</td><td style=text-align: left; vertical-align: middle;>1165</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY308219</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Grid ref 10:-</td><td style=text-align: left; vertical-align: middle;>NY 30852 21997</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Drop:-</td><td style=text-align: left; vertical-align: middle;>187</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col grid ref:-</td><td style=text-align: left; vertical-align: middle;>NY311196</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Col height:-</td><td style=text-align: left; vertical-align: middle;>168</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Feature:-</td><td style=text-align: left; vertical-align: middle;>rock about 4m W of cairn</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Observations:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Survey:-</td><td style=text-align: left; vertical-align: middle;>Abney level</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Climbed:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Country:-</td><td style=text-align: left; vertical-align: middle;>E</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>County Top:-</td><td style=text-align: left; vertical-align: middle;></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Revision:-</td><td style=text-align: left; vertical-align: middle;>28/03/2021</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Street Map</td><td style=text-align: left; vertical-align: middle;><a href="http://www.streetmap.co.uk/map?X=330851&Y=521998&SV=330851,521998&A=Y&Z=115">Street Map</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Geograph</td><td style=text-align: left; vertical-align: middle;><a href="http://www.geograph.org.uk/gridref/NY3085121998">Geograph</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;">Hill Bagging</td><td style=text-align: left; vertical-align: middle;><a href="http://www.hill-bagging.co.uk/mountaindetails.php?qu=S&rf=2627">Hill Bagging</a></td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Xcoord:-</td><td style=text-align: left; vertical-align: middle;>330851</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Ycoord:-</td><td style=text-align: left; vertical-align: middle;>521998</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Latitude:-</td><td style=text-align: left; vertical-align: middle;>54.588432</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>Longitude:-</td><td style=text-align: left; vertical-align: middle;>-3.071568</td></tr>
+<tr><td style=text-align: left; vertical-align: middle;>GridrefXY:-</td><td style=text-align: left; vertical-align: middle;>NY3085121998</td></tr>
+</table>
+</body>
+</html>
+
+<h4>copyright note</h4>
+<img src="https://i.creativecommons.org/l/by/4.0/88x31.png" align="left" hspace="5" vspace="0"></a>
+Data derived from the <a href="http://www.hills-database.co.uk/downloads.html#copyright">Database of British and Irish Hills - v17.3</a>
+licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Licence</a>
+]]>
+<!--Block5-->
+</mwm:lang>
+</mwm:description>
+<mwm:customName>
+<mwm:lang code="default">High Rigg [Naddle Fell]</mwm:lang>
+</mwm:customName>
+<mwm:visibility>1</mwm:visibility>
+</ExtendedData>
+</Placemark>
+</Document>
+</kml>
